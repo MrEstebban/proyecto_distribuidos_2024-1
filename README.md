@@ -57,13 +57,12 @@ python Sensores.py
 - Los sensores se conectan inicialmente al proxy principal, pero pueden redirigirse al proxy de respaldo en caso de fallo. Esta implementación asegura que el sistema pueda manejar fallas en el proxy principal y continuar funcionando sin interrupciones significativas.
 - La capa Cloud almacena los datos en un archivo cloud_data.json para su análisis posterior.
 - El proxy principal y el de respaldo monitorean la disponibilidad utilizando mensajes de "ping".
-- Los sensores se conectan inicialmente al proxy principal, pero el proxy de respaldo puede asumir el control en caso de fallas.
 
 ## Estructura del Proyecto
-- sensor.py: Script para simular los sensores de temperatura, humedad y humo.
-- proxy.py: Script del proxy principal.
-- proxy_backup.py: Script del proxy de respaldo.
-- cloud.py: Script de la capa Cloud para el almacenamiento y análisis de datos.
+- Sensores.py: Script para simular los sensores de temperatura, humedad y humo.
+- Proxy.py: Script del proxy principal.
+- Proxy_backup.py: Script del proxy de respaldo.
+- Cloud.py: Script de la capa Cloud para el almacenamiento y análisis de datos.
 - configHume.json, configTemp.json, configHumo.json: Archivos de configuración para los sensores.
 
 ## Contribución
