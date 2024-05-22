@@ -11,36 +11,6 @@ def cargar_datos(ruta):
         info = json.load(contenido)["info"]
         return info
 
-datos = cargar_datos("configHume.json")
-print(datos)
-hume1 = datos['hume1']
-hume2 = datos['hume2']
-hume3 = datos['hume3']
-
-datos = cargar_datos("configTemp.json")
-print(datos)
-temp1 = datos['temp1']
-temp2 = datos['temp2']
-temp3 = datos['temp3']
-
-datos = cargar_datos("configHumo.json")
-print(datos)
-humo1 = datos['humo1']
-humo2 = datos['humo2']
-
-print("Valores de hume1, hume2 y hume3:", hume1, hume2, hume3)
-print("Valores de temp1, temp2 y temp3:", temp1, temp2, temp3)
-print("Valores de humo1 y humo2:", humo1, humo2)
-
-context = zmq.Context()
-zmq_socket = context.socket(zmq.PUSH)
-zmq_socket.connect("tcp://192.168.10.121:5557")
-zmq_socketasp = context.socket(zmq.PULL)
-zmq_socketaspAlert = context.socket(zmq.PUSH)
-sh = 0
-st = 0
-shu = 0
-hostname = socket.gethostname()
 
 def generar_numero(min, max):
     numero = random.uniform(0,200)
@@ -60,7 +30,8 @@ def sensorHumo():
             print(threading.current_thread().name, " ",  numero_aleatorio)
             work_message = { 'Hostname' : hostname, 'name' : "sensor de humo", 'id' : sh, 'num' : numero_aleatorio, 'date' : datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'alert' : False}
             if(numero_aleatorio == 1):
-                zmq_socketaspAlert.connect("tcp://192.168.10.121:5555")
+                #zmq_socketaspAlert.connect("tcp://192.168.138.242:5555")
+                zmq_socketaspAlert.connect("tcp://127.0.0.1:5555")
                 alert = { 'mode' : 1}
                 work_message = { 'Hostname' : hostname, 'name' : "sensor de humo", 'id' : sh, 'num' : numero_aleatorio, 'date' : datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'alert' : True}
                 zmq_socketaspAlert.send_json(alert)
@@ -118,27 +89,61 @@ def sensorHume():
 
 def aspersor():
     global zmq_socketasp
-    zmq_socketasp.bind("tcp://192.168.10.121:5555")
+    #zmq_socketasp.bind("tcp://192.168.138.242:5555")
+    zmq_socketasp.bind("tcp://127.0.0.1:5555")
     while True:
         war = zmq_socketasp.recv_json()
         dat = war['mode']
         if dat == 1:
             print("Iniciando sistema de aspersores")
 
+# ------ Main -------
+
+datos = cargar_datos("configHume.json")
+print(datos)
+hume1 = datos['hume1']
+hume2 = datos['hume2']
+hume3 = datos['hume3']
+
+datos = cargar_datos("configTemp.json")
+print(datos)
+temp1 = datos['temp1']
+temp2 = datos['temp2']
+temp3 = datos['temp3']
+
+datos = cargar_datos("configHumo.json")
+print(datos)
+humo1 = datos['humo1']
+humo2 = datos['humo2']
+
+print("Valores de hume1, hume2 y hume3:", hume1, hume2, hume3)
+print("Valores de temp1, temp2 y temp3:", temp1, temp2, temp3)
+print("Valores de humo1 y humo2:", humo1, humo2)
+
+context = zmq.Context()
+zmq_socket = context.socket(zmq.PUSH)
+#zmq_socket.connect("tcp://192.168.138.242:5557")
+zmq_socket.connect("tcp://127.0.0.1:5557")
+zmq_socketasp = context.socket(zmq.PULL)
+zmq_socketaspAlert = context.socket(zmq.PUSH)
+sh = 0
+st = 0
+shu = 0
+hostname = socket.gethostname()
 
 hilo = threading.Thread(target=aspersor, name="Hilo aspersor")
 hilo.start()
 
+hilos = []
 for i in range(10):
-    print("Creando " + str(i))
-    hilo1 = threading.Thread(target=sensorTemp, name="Hilo st " + str(i+1))
-    hilo2 = threading.Thread(target=sensorHume, name="Hilo she " + str(i+1))
-    hilo3 = threading.Thread(target=sensorHumo, name="Hilo sh " + str(i+1))    
+    print("Creando hilo: " + str(i))
+    hilo1 = threading.Thread(target=sensorTemp, name="Hilo sensorTemp " + str(i+1))
+    hilo2 = threading.Thread(target=sensorHume, name="Hilo sensorHumedad " + str(i+1))
+    hilo3 = threading.Thread(target=sensorHumo, name="Hilo sensorHumo " + str(i+1))    
+    hilos.extend([hilo1, hilo2, hilo3])
 
-    hilo1.start()
-    hilo2.start()
-    hilo3.start()
+for h in hilos:
+    h.start()
 
-hilo1.join()
-hilo2.join()
-hilo3.join()
+for h in hilos:
+    h.join()
