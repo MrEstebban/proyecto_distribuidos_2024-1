@@ -16,7 +16,7 @@ Asegúrate de tener instaladas las librerías necesarias. Puedes instalarlas uti
 
 ```bash
 pip install pyzmq
-
+```
 
 ## Ejecución de los Componentes
 
