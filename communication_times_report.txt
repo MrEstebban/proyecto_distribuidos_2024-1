@@ -1,2 +1,2 @@
-Promedio de tiempos de comunicación: 57.22 ms
-Desviación estándar de los tiempos de comunicación: 255.00 ms
+Promedio de tiempos de comunicación: 42.86 ms
+Desviación estándar de los tiempos de comunicación: 203.02 ms

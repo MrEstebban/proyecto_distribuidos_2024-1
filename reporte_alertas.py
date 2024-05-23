@@ -17,10 +17,25 @@ def count_sent_messages(file_path):
 
 # Archivos a procesar
 cloud_data_file = 'cloud_data.json'
+proxy_data_file = 'proxy_data.json'
+sensor_humedad_file = 'sensor_humedad_data.json'
+sensor_temp_file = 'sensor_temp_data.json'
+sensor_humo_file = 'sensor_humo_data.json'
 
 # Contar mensajes enviados en cada archivo
 total_messages_sent = 0
 total_messages_sent += count_sent_messages(cloud_data_file)
+total_messages_sent += count_sent_messages(proxy_data_file)
+total_messages_sent += count_sent_messages(sensor_humedad_file)
+total_messages_sent += count_sent_messages(sensor_temp_file)
+total_messages_sent += count_sent_messages(sensor_humo_file)
+
+proxy_messages_sent = count_sent_messages(proxy_data_file)
+sensor_messages_sent = (
+    count_sent_messages(sensor_humedad_file) +
+    count_sent_messages(sensor_temp_file) +
+    count_sent_messages(sensor_humo_file)
+)
 
 
 # Datos para el gráfico de barras
