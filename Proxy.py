@@ -11,17 +11,13 @@ context = zmq.Context()
 # Recibir datos de los sensores
 consumer_receiver = context.socket(zmq.PULL)
 #consumer_receiver.bind("tcp://192.168.138.242:5557")
-consumer_receiver.bind("tcp://127.0.0.1:5557")
+consumer_receiver.bind("tcp://10.43.103.80:5557")
 
 # Enviar datos a la capa Cloud
 cloud_sender = context.socket(zmq.PUSH)
 #cloud_sender.connect("tcp://192.168.138.242:5558")
-cloud_sender.connect("tcp://127.0.0.1:5558")
+cloud_sender.connect("tcp://10.43.103.80:5558")
 
-# Health Check socket
-health_check_socket = context.socket(zmq.REP)
-#health_check_socket.bind("tcp://localhost:5560")
-health_check_socket.bind("tcp://127.0.0.1:5560")
 
 # Variables para almacenar datos y cálculos
 temps_guardadas = []
@@ -76,16 +72,23 @@ def enviar_a_nube(tipo, valor):
     }
     cloud_sender.send_json(mensaje)
 
-def health_check():
+def handle_health_check(zmq_socket_health):
     while True:
-        message = health_check_socket.recv_string()
-        print("Message PRoxy: ", message)
-        if message == "ping":
-            health_check_socket.send_string("pong")
+        try:
+            message = zmq_socket_health.recv_json()
+            if message.get("type") == "health_check":
+                zmq_socket_health.send_json({"status": "alive"})
+        except zmq.ZMQError as e:
+            print("ZMQ Error:", e)
+            break
         time.sleep(1)
 
 # Health check thread
-threading.Thread(target=health_check).start()
+# threading.Thread(target=health_check).start()
+zmq_socket_health = context.socket(zmq.REP)
+zmq_socket_health.bind("tcp://10.43.103.80:5560")
+health_thread = threading.Thread(target=handle_health_check, args=(zmq_socket_health,))
+health_thread.start()
 
 # ------ Main -------
 
@@ -115,3 +118,5 @@ while True:
     if hora_actual - hora_ultima_humedad_guardada >= 5:
         calcular_humedad_diaria()
         hora_ultima_humedad_guardada = hora_actual
+
+health_thread.join()

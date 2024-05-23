@@ -9,7 +9,7 @@ context = zmq.Context()
 # Recibir datos y alertas desde la capa Fog
 cloud_receiver = context.socket(zmq.PULL)
 #cloud_receiver.bind("tcp://192.168.138.242:5558")
-cloud_receiver.bind("tcp://127.0.0.1:5558")
+cloud_receiver.bind("tcp://10.43.103.80:5558")
 
 # Variables para almacenar datos
 valores_humedad_mensual = []

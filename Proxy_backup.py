@@ -5,16 +5,21 @@ from datetime import datetime
 import statistics
 import threading
 
+# Configuración del contexto y sockets
 context = zmq.Context()
+
+# Recibir datos de los sensores
 consumer_receiver = context.socket(zmq.PULL)
+#consumer_receiver.bind("tcp://192.168.138.242:5557")
+consumer_receiver.bind("tcp://10.43.103.80:5557")
 
-# Backup proxy listens on a different port
-#consumer_receiver.bind("tcp://localhost:5559")  
-consumer_receiver.bind("tcp://127.0.0.1:5559")
-
+# Enviar datos a la capa Cloud
 cloud_sender = context.socket(zmq.PUSH)
-cloud_sender.connect("tcp://127.0.0.1:5558")
+#cloud_sender.connect("tcp://192.168.138.242:5558")
+cloud_sender.connect("tcp://10.43.103.80:5558")
 
+
+# Variables para almacenar datos y cálculos
 temps_guardadas = []
 humedades_guardadas = []
 humedades_diarias_guardadas = []
@@ -67,56 +72,51 @@ def enviar_a_nube(tipo, valor):
     }
     cloud_sender.send_json(mensaje)
 
-def health_check():
-    proxy_check_socket = context.socket(zmq.REQ)
-    #proxy_check_socket.connect("tcp://localhost:5560")
-    proxy_check_socket.connect("tcp://127.0.0.1:5560")
-
+def handle_health_check(zmq_socket_health):
     while True:
-        proxy_check_socket.send_string("ping")
         try:
-            time.sleep(2)
-            message = proxy_check_socket.recv_string(flags=zmq.NOBLOCK)
-            print("Message PRoxy_backup: ", message)
-            if message != "pong":
-                raise zmq.error.Again
-        except zmq.error.Again:
-            print("Proxy principal no responde, tomando el control...")
-            backup_proxy()
+            message = zmq_socket_health.recv_json()
+            if message.get("type") == "health_check":
+                zmq_socket_health.send_json({"status": "alive"})
+        except zmq.ZMQError as e:
+            print("ZMQ Error:", e)
             break
-        #time.sleep(2)
+        time.sleep(1)
 
-def backup_proxy():
-    global consumer_receiver
-    #consumer_receiver.unbind("tcp://localhost:5559")
-    #consumer_receiver.bind("tcp://localhost:5557")
-    consumer_receiver.unbind("tcp://127.0.0.1:5559")
-    consumer_receiver.bind("tcp://127.0.0.1:5557")
-
-threading.Thread(target=health_check).start()
+# Health check thread
+# threading.Thread(target=health_check).start()
+zmq_socket_health = context.socket(zmq.REP)
+zmq_socket_health.bind("tcp://10.43.103.80:5560")
+health_thread = threading.Thread(target=handle_health_check, args=(zmq_socket_health,))
+health_thread.start()
 
 # ------ Main -------
 
-print("Captando mensajes en el proxy de respaldo...")
+print("Captando mensajes capa Proxy...")
 
 while True:
     work = consumer_receiver.recv_json()
     print(work)
     
+    # Validar datos recibidos
     if not validar_datos(work):
         print("Datos inválidos recibidos:", work)
         continue
 
+    # Procesar datos según el tipo de sensor
     if work['name'] == "sensor de temperatura":
         temps_guardadas.append(work['num'])
     elif work['name'] == "sensor de humedad":
         humedades_guardadas.append(work['num'])
 
-    current_time = time.time()
-    if current_time - hora_ultima_temp_guardada >= 6:
+    # Calcular promedios y enviar datos a intervalos regulares
+    hora_actual = time.time()
+    if hora_actual - hora_ultima_temp_guardada >= 6:
         calcular_promedio_temperatura()
-        hora_ultima_temp_guardada = current_time
+        hora_ultima_temp_guardada = hora_actual
 
-    if current_time - hora_ultima_humedad_guardada >= 5:
+    if hora_actual - hora_ultima_humedad_guardada >= 5:
         calcular_humedad_diaria()
-        hora_ultima_humedad_guardada = current_time
+        hora_ultima_humedad_guardada = hora_actual
+
+health_thread.join()
