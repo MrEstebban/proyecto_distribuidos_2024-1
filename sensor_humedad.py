@@ -48,7 +48,7 @@ hume3 = datos['hume3']
 
 context = zmq.Context()
 zmq_socket = context.socket(zmq.PUSH)
-zmq_socket.connect("tcp://127.0.0.1:5557")
+zmq_socket.connect("tcp://10.43.103.80:5557")
 shu = 0
 hostname = socket.gethostname()
 

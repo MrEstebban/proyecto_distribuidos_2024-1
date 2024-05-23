@@ -23,7 +23,7 @@ def sensorHumo():
             print(threading.current_thread().name, " ", numero_aleatorio)
             work_message = { 'Hostname' : hostname, 'name' : "sensor de humo", 'id' : sh, 'num' : numero_aleatorio, 'date' : datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'alert' : False}
             if numero_aleatorio == 1:
-                zmq_socketaspAlert.connect("tcp://127.0.0.1:5555")
+                zmq_socketaspAlert.connect("tcp://10.43.101.42:5555")
                 alert = { 'mode' : 1}
                 work_message = { 'Hostname' : hostname, 'name' : "sensor de humo", 'id' : sh, 'num' : numero_aleatorio, 'date' : datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'alert' : True}
                 zmq_socketaspAlert.send_json(alert)
@@ -42,7 +42,7 @@ humo2 = datos['humo2']
 
 context = zmq.Context()
 zmq_socket = context.socket(zmq.PUSH)
-zmq_socket.connect("tcp://127.0.0.1:5557")
+zmq_socket.connect("tcp://10.43.103.80:5557")
 zmq_socketaspAlert = context.socket(zmq.PUSH)
 sh = 0
 hostname = socket.gethostname()

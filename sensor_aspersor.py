@@ -3,7 +3,7 @@ import threading
 
 def aspersor():
     global zmq_socketasp
-    zmq_socketasp.bind("tcp://127.0.0.1:5555")
+    zmq_socketasp.bind("tcp://10.43.101.42:5555")
     while True:
         war = zmq_socketasp.recv_json()
         dat = war['mode']
