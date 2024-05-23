@@ -1290,3 +1290,1365 @@
 {"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 71.32783161576734, "date": "2024-05-23 04:34:47", "alert": false, "receivedDate": "2024-05-23 04:34:47", "action": "send"}
 {"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 44.15687651803619, "date": "2024-05-23 04:34:47", "alert": true, "receivedDate": "2024-05-23 04:34:47", "action": "send"}
 {"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 190.671622639995, "date": "2024-05-23 04:34:47", "alert": true, "receivedDate": "2024-05-23 04:34:47", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:10:54", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:10:54", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:10:54", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:10:54", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 1, "num": -54.35545045235856, "date": "2024-05-23 05:10:55", "alert": true, "receivedDate": "2024-05-23 05:10:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 3, "num": 71.3561708476195, "date": "2024-05-23 05:10:55", "alert": false, "receivedDate": "2024-05-23 05:10:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 4, "num": 152.55573683392382, "date": "2024-05-23 05:10:55", "alert": true, "receivedDate": "2024-05-23 05:10:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 5, "num": 77.97900318452493, "date": "2024-05-23 05:10:55", "alert": false, "receivedDate": "2024-05-23 05:10:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 6, "num": 94.42336931051176, "date": "2024-05-23 05:10:55", "alert": false, "receivedDate": "2024-05-23 05:10:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 8, "num": 101.4577284967217, "date": "2024-05-23 05:10:55", "alert": true, "receivedDate": "2024-05-23 05:10:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 8, "num": 92.71276927013727, "date": "2024-05-23 05:10:55", "alert": false, "receivedDate": "2024-05-23 05:10:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 9, "num": 91.56389674646576, "date": "2024-05-23 05:10:55", "alert": false, "receivedDate": "2024-05-23 05:10:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 9, "num": 72.85964517646414, "date": "2024-05-23 05:10:55", "alert": false, "receivedDate": "2024-05-23 05:10:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 136.2161204545913, "date": "2024-05-23 05:10:55", "alert": true, "receivedDate": "2024-05-23 05:10:55", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:10:57", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:10:57", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:10:57", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:10:57", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:10:57", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:10:57", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 98.78399771619176, "date": "2024-05-23 05:11:00", "alert": false, "receivedDate": "2024-05-23 05:11:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 183.26519184615074, "date": "2024-05-23 05:11:00", "alert": true, "receivedDate": "2024-05-23 05:11:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.78489080517124, "date": "2024-05-23 05:11:00", "alert": false, "receivedDate": "2024-05-23 05:11:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.43984192199235, "date": "2024-05-23 05:11:00", "alert": false, "receivedDate": "2024-05-23 05:11:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 61.185796623327306, "date": "2024-05-23 05:11:00", "alert": true, "receivedDate": "2024-05-23 05:11:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -87.87257384174657, "date": "2024-05-23 05:11:00", "alert": true, "receivedDate": "2024-05-23 05:11:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 193.10115884515656, "date": "2024-05-23 05:11:00", "alert": true, "receivedDate": "2024-05-23 05:11:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.19252001533776, "date": "2024-05-23 05:11:00", "alert": false, "receivedDate": "2024-05-23 05:11:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -18.934630434533453, "date": "2024-05-23 05:11:00", "alert": true, "receivedDate": "2024-05-23 05:11:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 25.09960985012487, "date": "2024-05-23 05:11:00", "alert": true, "receivedDate": "2024-05-23 05:11:00", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:00", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:00", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:00", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:03", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:03", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:03", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:03", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:03", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 156.79480594301342, "date": "2024-05-23 05:11:05", "alert": true, "receivedDate": "2024-05-23 05:11:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 0.15667662925977766, "date": "2024-05-23 05:11:05", "alert": true, "receivedDate": "2024-05-23 05:11:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.09175582942024, "date": "2024-05-23 05:11:05", "alert": false, "receivedDate": "2024-05-23 05:11:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 164.21593958314088, "date": "2024-05-23 05:11:05", "alert": true, "receivedDate": "2024-05-23 05:11:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.6423580309895, "date": "2024-05-23 05:11:05", "alert": false, "receivedDate": "2024-05-23 05:11:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 71.74125748064937, "date": "2024-05-23 05:11:05", "alert": false, "receivedDate": "2024-05-23 05:11:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.39678450597145, "date": "2024-05-23 05:11:05", "alert": false, "receivedDate": "2024-05-23 05:11:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 149.39139772851263, "date": "2024-05-23 05:11:05", "alert": true, "receivedDate": "2024-05-23 05:11:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.43412033170061, "date": "2024-05-23 05:11:05", "alert": false, "receivedDate": "2024-05-23 05:11:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.13204712249802, "date": "2024-05-23 05:11:05", "alert": false, "receivedDate": "2024-05-23 05:11:05", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:06", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:06", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:06", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:09", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:09", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 124.67747624702419, "date": "2024-05-23 05:11:10", "alert": true, "receivedDate": "2024-05-23 05:11:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 95.46100054461198, "date": "2024-05-23 05:11:10", "alert": false, "receivedDate": "2024-05-23 05:11:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 114.64807583845939, "date": "2024-05-23 05:11:10", "alert": true, "receivedDate": "2024-05-23 05:11:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 145.03225085841, "date": "2024-05-23 05:11:10", "alert": true, "receivedDate": "2024-05-23 05:11:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 161.44111489008517, "date": "2024-05-23 05:11:10", "alert": true, "receivedDate": "2024-05-23 05:11:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 64.73875600719765, "date": "2024-05-23 05:11:10", "alert": true, "receivedDate": "2024-05-23 05:11:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.02606588222073, "date": "2024-05-23 05:11:10", "alert": false, "receivedDate": "2024-05-23 05:11:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.88905406632753, "date": "2024-05-23 05:11:10", "alert": false, "receivedDate": "2024-05-23 05:11:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.22567123592935, "date": "2024-05-23 05:11:10", "alert": false, "receivedDate": "2024-05-23 05:11:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 9.192432863837263, "date": "2024-05-23 05:11:10", "alert": true, "receivedDate": "2024-05-23 05:11:10", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:12", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:12", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:12", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:12", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.56477678949271, "date": "2024-05-23 05:11:15", "alert": false, "receivedDate": "2024-05-23 05:11:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -2.5666086428292774, "date": "2024-05-23 05:11:15", "alert": true, "receivedDate": "2024-05-23 05:11:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 130.11023290633784, "date": "2024-05-23 05:11:15", "alert": true, "receivedDate": "2024-05-23 05:11:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 80.56486360908113, "date": "2024-05-23 05:11:15", "alert": false, "receivedDate": "2024-05-23 05:11:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.51811930618108, "date": "2024-05-23 05:11:15", "alert": false, "receivedDate": "2024-05-23 05:11:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 174.3979219481763, "date": "2024-05-23 05:11:15", "alert": true, "receivedDate": "2024-05-23 05:11:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 197.09679037761566, "date": "2024-05-23 05:11:15", "alert": true, "receivedDate": "2024-05-23 05:11:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 75.60893677109189, "date": "2024-05-23 05:11:15", "alert": false, "receivedDate": "2024-05-23 05:11:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 73.56749806206975, "date": "2024-05-23 05:11:15", "alert": false, "receivedDate": "2024-05-23 05:11:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.87930835237353, "date": "2024-05-23 05:11:15", "alert": false, "receivedDate": "2024-05-23 05:11:15", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:15", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:15", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:15", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:18", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:18", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 156.54394963390683, "date": "2024-05-23 05:11:20", "alert": true, "receivedDate": "2024-05-23 05:11:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.14408376103441, "date": "2024-05-23 05:11:20", "alert": false, "receivedDate": "2024-05-23 05:11:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.66005269010742, "date": "2024-05-23 05:11:20", "alert": false, "receivedDate": "2024-05-23 05:11:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 65.54665861274947, "date": "2024-05-23 05:11:20", "alert": true, "receivedDate": "2024-05-23 05:11:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 58.188075993832314, "date": "2024-05-23 05:11:20", "alert": true, "receivedDate": "2024-05-23 05:11:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 126.86236823577993, "date": "2024-05-23 05:11:20", "alert": true, "receivedDate": "2024-05-23 05:11:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 16.936073122582652, "date": "2024-05-23 05:11:20", "alert": true, "receivedDate": "2024-05-23 05:11:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.19558324394367, "date": "2024-05-23 05:11:20", "alert": false, "receivedDate": "2024-05-23 05:11:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -57.780565976018956, "date": "2024-05-23 05:11:20", "alert": true, "receivedDate": "2024-05-23 05:11:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.3734763695457, "date": "2024-05-23 05:11:20", "alert": false, "receivedDate": "2024-05-23 05:11:20", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:21", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:21", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:21", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:21", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:21", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:24", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:24", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:24", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 129.83238493964143, "date": "2024-05-23 05:11:25", "alert": true, "receivedDate": "2024-05-23 05:11:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 185.15882806146885, "date": "2024-05-23 05:11:25", "alert": true, "receivedDate": "2024-05-23 05:11:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.57134452960227, "date": "2024-05-23 05:11:25", "alert": false, "receivedDate": "2024-05-23 05:11:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 34.55886330109206, "date": "2024-05-23 05:11:25", "alert": true, "receivedDate": "2024-05-23 05:11:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 184.15051843099334, "date": "2024-05-23 05:11:25", "alert": true, "receivedDate": "2024-05-23 05:11:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 91.70473961026516, "date": "2024-05-23 05:11:25", "alert": false, "receivedDate": "2024-05-23 05:11:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 75.58182980289008, "date": "2024-05-23 05:11:25", "alert": false, "receivedDate": "2024-05-23 05:11:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 48.40199305807103, "date": "2024-05-23 05:11:25", "alert": true, "receivedDate": "2024-05-23 05:11:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 129.62101173262076, "date": "2024-05-23 05:11:25", "alert": true, "receivedDate": "2024-05-23 05:11:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 77.21480383750828, "date": "2024-05-23 05:11:25", "alert": false, "receivedDate": "2024-05-23 05:11:25", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:27", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:27", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:27", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:27", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:27", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:27", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:27", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 0.251651184196211, "date": "2024-05-23 05:11:30", "alert": true, "receivedDate": "2024-05-23 05:11:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -96.42566108419705, "date": "2024-05-23 05:11:30", "alert": true, "receivedDate": "2024-05-23 05:11:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 13.864226722082961, "date": "2024-05-23 05:11:30", "alert": true, "receivedDate": "2024-05-23 05:11:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 178.70167279716776, "date": "2024-05-23 05:11:30", "alert": true, "receivedDate": "2024-05-23 05:11:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 174.27557622249716, "date": "2024-05-23 05:11:30", "alert": true, "receivedDate": "2024-05-23 05:11:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -33.71844783818556, "date": "2024-05-23 05:11:30", "alert": true, "receivedDate": "2024-05-23 05:11:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 175.3729016525366, "date": "2024-05-23 05:11:30", "alert": true, "receivedDate": "2024-05-23 05:11:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 128.88678030050394, "date": "2024-05-23 05:11:30", "alert": true, "receivedDate": "2024-05-23 05:11:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.03466887328955, "date": "2024-05-23 05:11:30", "alert": false, "receivedDate": "2024-05-23 05:11:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 143.2141529767585, "date": "2024-05-23 05:11:30", "alert": true, "receivedDate": "2024-05-23 05:11:30", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:30", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:30", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:33", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:33", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:33", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 59.608322521085675, "date": "2024-05-23 05:11:35", "alert": true, "receivedDate": "2024-05-23 05:11:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 23.501059163017658, "date": "2024-05-23 05:11:35", "alert": true, "receivedDate": "2024-05-23 05:11:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.26113118006481, "date": "2024-05-23 05:11:35", "alert": false, "receivedDate": "2024-05-23 05:11:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 4.489611885472633, "date": "2024-05-23 05:11:35", "alert": true, "receivedDate": "2024-05-23 05:11:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 167.5943293638619, "date": "2024-05-23 05:11:35", "alert": true, "receivedDate": "2024-05-23 05:11:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 167.37539918950267, "date": "2024-05-23 05:11:35", "alert": true, "receivedDate": "2024-05-23 05:11:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.81933319723245, "date": "2024-05-23 05:11:35", "alert": false, "receivedDate": "2024-05-23 05:11:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.48800280617138, "date": "2024-05-23 05:11:35", "alert": false, "receivedDate": "2024-05-23 05:11:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.41535220666745, "date": "2024-05-23 05:11:35", "alert": false, "receivedDate": "2024-05-23 05:11:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.52196238507263, "date": "2024-05-23 05:11:35", "alert": false, "receivedDate": "2024-05-23 05:11:35", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:36", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:36", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:36", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:36", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:36", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:39", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:39", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.99704839577149, "date": "2024-05-23 05:11:40", "alert": false, "receivedDate": "2024-05-23 05:11:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.42304149691677, "date": "2024-05-23 05:11:40", "alert": false, "receivedDate": "2024-05-23 05:11:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.88320763781832, "date": "2024-05-23 05:11:40", "alert": false, "receivedDate": "2024-05-23 05:11:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -33.78646813348885, "date": "2024-05-23 05:11:40", "alert": true, "receivedDate": "2024-05-23 05:11:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 64.40243394200498, "date": "2024-05-23 05:11:40", "alert": true, "receivedDate": "2024-05-23 05:11:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.14477321292833, "date": "2024-05-23 05:11:40", "alert": false, "receivedDate": "2024-05-23 05:11:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 122.40658730942357, "date": "2024-05-23 05:11:40", "alert": true, "receivedDate": "2024-05-23 05:11:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 77.59768937840045, "date": "2024-05-23 05:11:40", "alert": false, "receivedDate": "2024-05-23 05:11:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.31395819853768, "date": "2024-05-23 05:11:40", "alert": false, "receivedDate": "2024-05-23 05:11:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.40126476464995, "date": "2024-05-23 05:11:40", "alert": false, "receivedDate": "2024-05-23 05:11:40", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:42", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:42", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:42", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:42", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:42", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:42", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.45997863035947, "date": "2024-05-23 05:11:45", "alert": false, "receivedDate": "2024-05-23 05:11:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.9222419247049, "date": "2024-05-23 05:11:45", "alert": false, "receivedDate": "2024-05-23 05:11:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.87127729986807, "date": "2024-05-23 05:11:45", "alert": false, "receivedDate": "2024-05-23 05:11:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -9.690887618438193, "date": "2024-05-23 05:11:45", "alert": true, "receivedDate": "2024-05-23 05:11:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.38623432417019, "date": "2024-05-23 05:11:45", "alert": false, "receivedDate": "2024-05-23 05:11:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.1467875960915, "date": "2024-05-23 05:11:45", "alert": false, "receivedDate": "2024-05-23 05:11:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 101.61904294868884, "date": "2024-05-23 05:11:45", "alert": true, "receivedDate": "2024-05-23 05:11:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 130.0935197956211, "date": "2024-05-23 05:11:45", "alert": true, "receivedDate": "2024-05-23 05:11:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.66591144140091, "date": "2024-05-23 05:11:45", "alert": false, "receivedDate": "2024-05-23 05:11:45", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:45", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:45", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:45", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:45", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:48", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:48", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:48", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:48", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 79.03920349438816, "date": "2024-05-23 05:11:50", "alert": false, "receivedDate": "2024-05-23 05:11:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -95.51915207041075, "date": "2024-05-23 05:11:50", "alert": true, "receivedDate": "2024-05-23 05:11:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.53995477122602, "date": "2024-05-23 05:11:50", "alert": false, "receivedDate": "2024-05-23 05:11:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.38481178109635, "date": "2024-05-23 05:11:50", "alert": false, "receivedDate": "2024-05-23 05:11:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.78514937333357, "date": "2024-05-23 05:11:50", "alert": false, "receivedDate": "2024-05-23 05:11:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 159.5887752993443, "date": "2024-05-23 05:11:50", "alert": true, "receivedDate": "2024-05-23 05:11:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 95.86710370255896, "date": "2024-05-23 05:11:50", "alert": false, "receivedDate": "2024-05-23 05:11:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.2069884364463, "date": "2024-05-23 05:11:50", "alert": false, "receivedDate": "2024-05-23 05:11:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.38126698000048, "date": "2024-05-23 05:11:50", "alert": false, "receivedDate": "2024-05-23 05:11:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 178.96727617461684, "date": "2024-05-23 05:11:50", "alert": true, "receivedDate": "2024-05-23 05:11:50", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:51", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:51", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:51", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:51", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:54", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:54", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:54", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:54", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:55", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 95.9673856636411, "date": "2024-05-23 05:11:55", "alert": false, "receivedDate": "2024-05-23 05:11:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 194.28079516878597, "date": "2024-05-23 05:11:55", "alert": true, "receivedDate": "2024-05-23 05:11:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.41872089390375, "date": "2024-05-23 05:11:55", "alert": false, "receivedDate": "2024-05-23 05:11:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.17129985150218, "date": "2024-05-23 05:11:55", "alert": false, "receivedDate": "2024-05-23 05:11:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.69059759428427, "date": "2024-05-23 05:11:55", "alert": false, "receivedDate": "2024-05-23 05:11:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 104.36166816956798, "date": "2024-05-23 05:11:55", "alert": true, "receivedDate": "2024-05-23 05:11:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.62373216086003, "date": "2024-05-23 05:11:55", "alert": false, "receivedDate": "2024-05-23 05:11:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -71.01916212981362, "date": "2024-05-23 05:11:55", "alert": true, "receivedDate": "2024-05-23 05:11:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -27.976982705054734, "date": "2024-05-23 05:11:55", "alert": true, "receivedDate": "2024-05-23 05:11:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 29.055751135564755, "date": "2024-05-23 05:11:55", "alert": true, "receivedDate": "2024-05-23 05:11:55", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:57", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:11:58", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 77.2928673025656, "date": "2024-05-23 05:12:00", "alert": false, "receivedDate": "2024-05-23 05:12:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.38043456769441, "date": "2024-05-23 05:12:00", "alert": false, "receivedDate": "2024-05-23 05:12:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.62425136572976, "date": "2024-05-23 05:12:00", "alert": false, "receivedDate": "2024-05-23 05:12:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 164.5346468206897, "date": "2024-05-23 05:12:00", "alert": true, "receivedDate": "2024-05-23 05:12:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 141.38258742057877, "date": "2024-05-23 05:12:00", "alert": true, "receivedDate": "2024-05-23 05:12:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.16071773861805, "date": "2024-05-23 05:12:00", "alert": false, "receivedDate": "2024-05-23 05:12:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 169.18363508335452, "date": "2024-05-23 05:12:00", "alert": true, "receivedDate": "2024-05-23 05:12:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 34.351932891788174, "date": "2024-05-23 05:12:00", "alert": true, "receivedDate": "2024-05-23 05:12:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 106.88105094564494, "date": "2024-05-23 05:12:00", "alert": true, "receivedDate": "2024-05-23 05:12:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.25665147597552, "date": "2024-05-23 05:12:00", "alert": false, "receivedDate": "2024-05-23 05:12:00", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:00", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:00", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:00", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:00", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:00", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:03", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:03", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:03", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:04", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.58221804091119, "date": "2024-05-23 05:12:05", "alert": false, "receivedDate": "2024-05-23 05:12:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.30755527118396, "date": "2024-05-23 05:12:05", "alert": false, "receivedDate": "2024-05-23 05:12:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 182.90744454356863, "date": "2024-05-23 05:12:05", "alert": true, "receivedDate": "2024-05-23 05:12:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 126.55806643780949, "date": "2024-05-23 05:12:05", "alert": true, "receivedDate": "2024-05-23 05:12:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 75.72961357610629, "date": "2024-05-23 05:12:05", "alert": false, "receivedDate": "2024-05-23 05:12:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.5150155441351, "date": "2024-05-23 05:12:05", "alert": false, "receivedDate": "2024-05-23 05:12:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 184.6109389103708, "date": "2024-05-23 05:12:05", "alert": true, "receivedDate": "2024-05-23 05:12:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 78.20627853042107, "date": "2024-05-23 05:12:05", "alert": false, "receivedDate": "2024-05-23 05:12:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 17.7368516655388, "date": "2024-05-23 05:12:05", "alert": true, "receivedDate": "2024-05-23 05:12:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 189.6566008900534, "date": "2024-05-23 05:12:05", "alert": true, "receivedDate": "2024-05-23 05:12:05", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:06", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:06", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:06", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:09", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:09", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:10", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 75.5762712801229, "date": "2024-05-23 05:12:10", "alert": false, "receivedDate": "2024-05-23 05:12:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 16.228042913852114, "date": "2024-05-23 05:12:10", "alert": true, "receivedDate": "2024-05-23 05:12:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.3377374869686, "date": "2024-05-23 05:12:10", "alert": false, "receivedDate": "2024-05-23 05:12:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 71.40345062207538, "date": "2024-05-23 05:12:10", "alert": false, "receivedDate": "2024-05-23 05:12:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.97723867277061, "date": "2024-05-23 05:12:10", "alert": false, "receivedDate": "2024-05-23 05:12:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 71.75625712303541, "date": "2024-05-23 05:12:10", "alert": false, "receivedDate": "2024-05-23 05:12:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -63.11309181540835, "date": "2024-05-23 05:12:10", "alert": true, "receivedDate": "2024-05-23 05:12:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 196.5788546130051, "date": "2024-05-23 05:12:10", "alert": true, "receivedDate": "2024-05-23 05:12:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 189.68421458990218, "date": "2024-05-23 05:12:10", "alert": true, "receivedDate": "2024-05-23 05:12:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.36668924559554, "date": "2024-05-23 05:12:10", "alert": false, "receivedDate": "2024-05-23 05:12:10", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:12", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:12", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:13", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 161.20491974186407, "date": "2024-05-23 05:12:15", "alert": true, "receivedDate": "2024-05-23 05:12:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -84.96101386207872, "date": "2024-05-23 05:12:15", "alert": true, "receivedDate": "2024-05-23 05:12:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.77231171894553, "date": "2024-05-23 05:12:15", "alert": false, "receivedDate": "2024-05-23 05:12:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -24.664272948624397, "date": "2024-05-23 05:12:15", "alert": true, "receivedDate": "2024-05-23 05:12:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 191.10516857142844, "date": "2024-05-23 05:12:15", "alert": true, "receivedDate": "2024-05-23 05:12:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 141.35892777100395, "date": "2024-05-23 05:12:15", "alert": true, "receivedDate": "2024-05-23 05:12:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.56162400392232, "date": "2024-05-23 05:12:15", "alert": false, "receivedDate": "2024-05-23 05:12:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.53156432615917, "date": "2024-05-23 05:12:15", "alert": false, "receivedDate": "2024-05-23 05:12:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 148.214591257041, "date": "2024-05-23 05:12:15", "alert": true, "receivedDate": "2024-05-23 05:12:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.68344719793981, "date": "2024-05-23 05:12:15", "alert": false, "receivedDate": "2024-05-23 05:12:15", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:15", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:15", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:18", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:18", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:18", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:19", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -24.52071482173105, "date": "2024-05-23 05:12:20", "alert": true, "receivedDate": "2024-05-23 05:12:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 140.0436114261995, "date": "2024-05-23 05:12:20", "alert": true, "receivedDate": "2024-05-23 05:12:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 117.74397642203516, "date": "2024-05-23 05:12:20", "alert": true, "receivedDate": "2024-05-23 05:12:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 110.9137526599388, "date": "2024-05-23 05:12:20", "alert": true, "receivedDate": "2024-05-23 05:12:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 193.30568702517877, "date": "2024-05-23 05:12:20", "alert": true, "receivedDate": "2024-05-23 05:12:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.72955638918691, "date": "2024-05-23 05:12:20", "alert": false, "receivedDate": "2024-05-23 05:12:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.21179240058967, "date": "2024-05-23 05:12:20", "alert": false, "receivedDate": "2024-05-23 05:12:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 51.62252598161054, "date": "2024-05-23 05:12:20", "alert": true, "receivedDate": "2024-05-23 05:12:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 13.295878117859994, "date": "2024-05-23 05:12:20", "alert": true, "receivedDate": "2024-05-23 05:12:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 199.52859099442833, "date": "2024-05-23 05:12:20", "alert": true, "receivedDate": "2024-05-23 05:12:20", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:21", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:21", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:21", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:24", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:24", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:24", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:25", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -81.78459595126114, "date": "2024-05-23 05:12:25", "alert": true, "receivedDate": "2024-05-23 05:12:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -21.037960834119648, "date": "2024-05-23 05:12:25", "alert": true, "receivedDate": "2024-05-23 05:12:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 164.7167337064895, "date": "2024-05-23 05:12:25", "alert": true, "receivedDate": "2024-05-23 05:12:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.68556185739978, "date": "2024-05-23 05:12:25", "alert": false, "receivedDate": "2024-05-23 05:12:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 63.23980905988898, "date": "2024-05-23 05:12:25", "alert": true, "receivedDate": "2024-05-23 05:12:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 66.6546351737232, "date": "2024-05-23 05:12:25", "alert": true, "receivedDate": "2024-05-23 05:12:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.35499042119523, "date": "2024-05-23 05:12:25", "alert": false, "receivedDate": "2024-05-23 05:12:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.13204123765286, "date": "2024-05-23 05:12:25", "alert": false, "receivedDate": "2024-05-23 05:12:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 40.65454092935856, "date": "2024-05-23 05:12:25", "alert": true, "receivedDate": "2024-05-23 05:12:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.01853564207782, "date": "2024-05-23 05:12:25", "alert": false, "receivedDate": "2024-05-23 05:12:25", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:27", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:27", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:28", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 59.24172476637002, "date": "2024-05-23 05:12:30", "alert": true, "receivedDate": "2024-05-23 05:12:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 154.5188714825556, "date": "2024-05-23 05:12:30", "alert": true, "receivedDate": "2024-05-23 05:12:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 107.20060817025382, "date": "2024-05-23 05:12:30", "alert": true, "receivedDate": "2024-05-23 05:12:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 22.591305002441906, "date": "2024-05-23 05:12:30", "alert": true, "receivedDate": "2024-05-23 05:12:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.25973638611788, "date": "2024-05-23 05:12:30", "alert": false, "receivedDate": "2024-05-23 05:12:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 183.711159880301, "date": "2024-05-23 05:12:30", "alert": true, "receivedDate": "2024-05-23 05:12:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -84.12715145480618, "date": "2024-05-23 05:12:30", "alert": true, "receivedDate": "2024-05-23 05:12:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -78.35726735078873, "date": "2024-05-23 05:12:30", "alert": true, "receivedDate": "2024-05-23 05:12:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -49.23025791394288, "date": "2024-05-23 05:12:30", "alert": true, "receivedDate": "2024-05-23 05:12:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.5242298782722, "date": "2024-05-23 05:12:30", "alert": false, "receivedDate": "2024-05-23 05:12:30", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:30", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:34", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.85268638598555, "date": "2024-05-23 05:12:35", "alert": false, "receivedDate": "2024-05-23 05:12:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -82.88100577472045, "date": "2024-05-23 05:12:35", "alert": true, "receivedDate": "2024-05-23 05:12:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 113.63712498404664, "date": "2024-05-23 05:12:35", "alert": true, "receivedDate": "2024-05-23 05:12:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.96420234214075, "date": "2024-05-23 05:12:35", "alert": false, "receivedDate": "2024-05-23 05:12:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.6124362234128, "date": "2024-05-23 05:12:35", "alert": false, "receivedDate": "2024-05-23 05:12:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 33.9960068340835, "date": "2024-05-23 05:12:35", "alert": true, "receivedDate": "2024-05-23 05:12:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 151.8593603054403, "date": "2024-05-23 05:12:35", "alert": true, "receivedDate": "2024-05-23 05:12:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 71.80095530687775, "date": "2024-05-23 05:12:35", "alert": false, "receivedDate": "2024-05-23 05:12:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.25836412962192, "date": "2024-05-23 05:12:35", "alert": false, "receivedDate": "2024-05-23 05:12:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 182.67545260692023, "date": "2024-05-23 05:12:35", "alert": true, "receivedDate": "2024-05-23 05:12:35", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:36", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:40", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:40", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:40", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.5566899099565, "date": "2024-05-23 05:12:40", "alert": false, "receivedDate": "2024-05-23 05:12:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 100.77455350494915, "date": "2024-05-23 05:12:40", "alert": true, "receivedDate": "2024-05-23 05:12:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 38.464254900334005, "date": "2024-05-23 05:12:40", "alert": true, "receivedDate": "2024-05-23 05:12:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 196.43735955361927, "date": "2024-05-23 05:12:40", "alert": true, "receivedDate": "2024-05-23 05:12:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.28258135453473, "date": "2024-05-23 05:12:40", "alert": false, "receivedDate": "2024-05-23 05:12:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.31205859142135, "date": "2024-05-23 05:12:40", "alert": false, "receivedDate": "2024-05-23 05:12:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 98.01651106393886, "date": "2024-05-23 05:12:40", "alert": false, "receivedDate": "2024-05-23 05:12:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 26.57113991125659, "date": "2024-05-23 05:12:40", "alert": true, "receivedDate": "2024-05-23 05:12:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.6465937352275, "date": "2024-05-23 05:12:40", "alert": false, "receivedDate": "2024-05-23 05:12:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 75.65076519533766, "date": "2024-05-23 05:12:40", "alert": false, "receivedDate": "2024-05-23 05:12:40", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:42", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:43", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 125.85788624389569, "date": "2024-05-23 05:12:45", "alert": true, "receivedDate": "2024-05-23 05:12:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -5.621542719308133, "date": "2024-05-23 05:12:45", "alert": true, "receivedDate": "2024-05-23 05:12:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 30.829975071561332, "date": "2024-05-23 05:12:45", "alert": true, "receivedDate": "2024-05-23 05:12:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.63424354142083, "date": "2024-05-23 05:12:45", "alert": false, "receivedDate": "2024-05-23 05:12:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 138.57836754788434, "date": "2024-05-23 05:12:45", "alert": true, "receivedDate": "2024-05-23 05:12:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 80.85273359724752, "date": "2024-05-23 05:12:45", "alert": false, "receivedDate": "2024-05-23 05:12:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 102.445005916059, "date": "2024-05-23 05:12:45", "alert": true, "receivedDate": "2024-05-23 05:12:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 178.1289331378455, "date": "2024-05-23 05:12:45", "alert": true, "receivedDate": "2024-05-23 05:12:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.08655127764693, "date": "2024-05-23 05:12:45", "alert": false, "receivedDate": "2024-05-23 05:12:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.30252367435997, "date": "2024-05-23 05:12:45", "alert": false, "receivedDate": "2024-05-23 05:12:45", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:45", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:48", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:49", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:49", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:49", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 138.22558848219512, "date": "2024-05-23 05:12:50", "alert": true, "receivedDate": "2024-05-23 05:12:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -36.133022128851586, "date": "2024-05-23 05:12:50", "alert": true, "receivedDate": "2024-05-23 05:12:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.39400158484943, "date": "2024-05-23 05:12:50", "alert": false, "receivedDate": "2024-05-23 05:12:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 135.27978100863731, "date": "2024-05-23 05:12:50", "alert": true, "receivedDate": "2024-05-23 05:12:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 199.8650338465963, "date": "2024-05-23 05:12:50", "alert": true, "receivedDate": "2024-05-23 05:12:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 153.4181747705493, "date": "2024-05-23 05:12:50", "alert": true, "receivedDate": "2024-05-23 05:12:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 120.97899707182407, "date": "2024-05-23 05:12:50", "alert": true, "receivedDate": "2024-05-23 05:12:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.27965379721321, "date": "2024-05-23 05:12:50", "alert": false, "receivedDate": "2024-05-23 05:12:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.70526239512353, "date": "2024-05-23 05:12:50", "alert": false, "receivedDate": "2024-05-23 05:12:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 160.18700797418205, "date": "2024-05-23 05:12:50", "alert": true, "receivedDate": "2024-05-23 05:12:50", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:54", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:55", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:55", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:55", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:55", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.61519795401195, "date": "2024-05-23 05:12:55", "alert": false, "receivedDate": "2024-05-23 05:12:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 29.693982867383916, "date": "2024-05-23 05:12:55", "alert": true, "receivedDate": "2024-05-23 05:12:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.44974591853443, "date": "2024-05-23 05:12:55", "alert": false, "receivedDate": "2024-05-23 05:12:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.82343634711975, "date": "2024-05-23 05:12:55", "alert": false, "receivedDate": "2024-05-23 05:12:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 77.51843628666744, "date": "2024-05-23 05:12:55", "alert": false, "receivedDate": "2024-05-23 05:12:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 73.19070087435385, "date": "2024-05-23 05:12:55", "alert": false, "receivedDate": "2024-05-23 05:12:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 58.97456748181191, "date": "2024-05-23 05:12:55", "alert": true, "receivedDate": "2024-05-23 05:12:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 158.70347527398502, "date": "2024-05-23 05:12:55", "alert": true, "receivedDate": "2024-05-23 05:12:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.1065202945366, "date": "2024-05-23 05:12:55", "alert": false, "receivedDate": "2024-05-23 05:12:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.96070276434027, "date": "2024-05-23 05:12:55", "alert": false, "receivedDate": "2024-05-23 05:12:55", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:12:58", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 151.07488955060896, "date": "2024-05-23 05:13:00", "alert": true, "receivedDate": "2024-05-23 05:13:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.64064648408684, "date": "2024-05-23 05:13:00", "alert": false, "receivedDate": "2024-05-23 05:13:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.91061232696208, "date": "2024-05-23 05:13:00", "alert": false, "receivedDate": "2024-05-23 05:13:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.92984205439417, "date": "2024-05-23 05:13:00", "alert": false, "receivedDate": "2024-05-23 05:13:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -12.711302062589631, "date": "2024-05-23 05:13:00", "alert": true, "receivedDate": "2024-05-23 05:13:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 154.14553434389776, "date": "2024-05-23 05:13:00", "alert": true, "receivedDate": "2024-05-23 05:13:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 98.14620865732944, "date": "2024-05-23 05:13:00", "alert": false, "receivedDate": "2024-05-23 05:13:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -11.053720449390887, "date": "2024-05-23 05:13:00", "alert": true, "receivedDate": "2024-05-23 05:13:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 71.80109508259142, "date": "2024-05-23 05:13:00", "alert": false, "receivedDate": "2024-05-23 05:13:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 143.53253234845062, "date": "2024-05-23 05:13:00", "alert": true, "receivedDate": "2024-05-23 05:13:00", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:04", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.58531760207288, "date": "2024-05-23 05:13:05", "alert": false, "receivedDate": "2024-05-23 05:13:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.1564822013733, "date": "2024-05-23 05:13:05", "alert": false, "receivedDate": "2024-05-23 05:13:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -78.12115210413002, "date": "2024-05-23 05:13:05", "alert": true, "receivedDate": "2024-05-23 05:13:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 41.64113914898835, "date": "2024-05-23 05:13:05", "alert": true, "receivedDate": "2024-05-23 05:13:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 95.45305778348249, "date": "2024-05-23 05:13:05", "alert": false, "receivedDate": "2024-05-23 05:13:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 78.26854137615423, "date": "2024-05-23 05:13:05", "alert": false, "receivedDate": "2024-05-23 05:13:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 139.97528500462016, "date": "2024-05-23 05:13:05", "alert": true, "receivedDate": "2024-05-23 05:13:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 145.79636331178077, "date": "2024-05-23 05:13:05", "alert": true, "receivedDate": "2024-05-23 05:13:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.87325008390627, "date": "2024-05-23 05:13:05", "alert": false, "receivedDate": "2024-05-23 05:13:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 180.8358772990007, "date": "2024-05-23 05:13:05", "alert": true, "receivedDate": "2024-05-23 05:13:05", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:06", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:10", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 172.1915284800556, "date": "2024-05-23 05:13:10", "alert": true, "receivedDate": "2024-05-23 05:13:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 74.04645941429524, "date": "2024-05-23 05:13:10", "alert": false, "receivedDate": "2024-05-23 05:13:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.46334096896506, "date": "2024-05-23 05:13:10", "alert": false, "receivedDate": "2024-05-23 05:13:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.14277557069461, "date": "2024-05-23 05:13:10", "alert": false, "receivedDate": "2024-05-23 05:13:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.36645163734107, "date": "2024-05-23 05:13:10", "alert": false, "receivedDate": "2024-05-23 05:13:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.1071892743204, "date": "2024-05-23 05:13:10", "alert": false, "receivedDate": "2024-05-23 05:13:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 10.71780715292645, "date": "2024-05-23 05:13:10", "alert": true, "receivedDate": "2024-05-23 05:13:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 133.6283430759209, "date": "2024-05-23 05:13:10", "alert": true, "receivedDate": "2024-05-23 05:13:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 162.32913717679253, "date": "2024-05-23 05:13:10", "alert": true, "receivedDate": "2024-05-23 05:13:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 53.23560602752273, "date": "2024-05-23 05:13:10", "alert": true, "receivedDate": "2024-05-23 05:13:10", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:13", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 24.294300168925975, "date": "2024-05-23 05:13:15", "alert": true, "receivedDate": "2024-05-23 05:13:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.72223727056826, "date": "2024-05-23 05:13:15", "alert": false, "receivedDate": "2024-05-23 05:13:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.34322315147834, "date": "2024-05-23 05:13:15", "alert": false, "receivedDate": "2024-05-23 05:13:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.30770783082498, "date": "2024-05-23 05:13:15", "alert": false, "receivedDate": "2024-05-23 05:13:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 75.16546888183035, "date": "2024-05-23 05:13:15", "alert": false, "receivedDate": "2024-05-23 05:13:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 169.51314116513032, "date": "2024-05-23 05:13:15", "alert": true, "receivedDate": "2024-05-23 05:13:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 8.381287929610103, "date": "2024-05-23 05:13:15", "alert": true, "receivedDate": "2024-05-23 05:13:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 9.651240407632367, "date": "2024-05-23 05:13:15", "alert": true, "receivedDate": "2024-05-23 05:13:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 195.1394123517489, "date": "2024-05-23 05:13:15", "alert": true, "receivedDate": "2024-05-23 05:13:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 14.355081202571963, "date": "2024-05-23 05:13:15", "alert": true, "receivedDate": "2024-05-23 05:13:15", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:15", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:19", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 157.93161041259478, "date": "2024-05-23 05:13:20", "alert": true, "receivedDate": "2024-05-23 05:13:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 95.89186402004978, "date": "2024-05-23 05:13:20", "alert": false, "receivedDate": "2024-05-23 05:13:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 160.13828117487955, "date": "2024-05-23 05:13:20", "alert": true, "receivedDate": "2024-05-23 05:13:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 144.3123526824901, "date": "2024-05-23 05:13:20", "alert": true, "receivedDate": "2024-05-23 05:13:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.66785024229245, "date": "2024-05-23 05:13:20", "alert": false, "receivedDate": "2024-05-23 05:13:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 74.86947474019985, "date": "2024-05-23 05:13:20", "alert": false, "receivedDate": "2024-05-23 05:13:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 125.87904418421378, "date": "2024-05-23 05:13:20", "alert": true, "receivedDate": "2024-05-23 05:13:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 106.90009545114052, "date": "2024-05-23 05:13:20", "alert": true, "receivedDate": "2024-05-23 05:13:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 39.0492652094941, "date": "2024-05-23 05:13:20", "alert": true, "receivedDate": "2024-05-23 05:13:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -2.8105773860704573, "date": "2024-05-23 05:13:20", "alert": true, "receivedDate": "2024-05-23 05:13:20", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:25", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.17805299755527, "date": "2024-05-23 05:13:25", "alert": false, "receivedDate": "2024-05-23 05:13:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -66.09160086864094, "date": "2024-05-23 05:13:25", "alert": true, "receivedDate": "2024-05-23 05:13:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 63.42945806826592, "date": "2024-05-23 05:13:25", "alert": true, "receivedDate": "2024-05-23 05:13:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.20221880601125, "date": "2024-05-23 05:13:25", "alert": false, "receivedDate": "2024-05-23 05:13:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 159.16889554994574, "date": "2024-05-23 05:13:25", "alert": true, "receivedDate": "2024-05-23 05:13:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 95.90096823568292, "date": "2024-05-23 05:13:25", "alert": false, "receivedDate": "2024-05-23 05:13:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 78.90784462726562, "date": "2024-05-23 05:13:25", "alert": false, "receivedDate": "2024-05-23 05:13:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 147.88287754739343, "date": "2024-05-23 05:13:25", "alert": true, "receivedDate": "2024-05-23 05:13:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 71.16158184986085, "date": "2024-05-23 05:13:25", "alert": false, "receivedDate": "2024-05-23 05:13:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -84.4073390930481, "date": "2024-05-23 05:13:25", "alert": true, "receivedDate": "2024-05-23 05:13:25", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:28", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 172.0378958698411, "date": "2024-05-23 05:13:30", "alert": true, "receivedDate": "2024-05-23 05:13:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 85.92837330434912, "date": "2024-05-23 05:13:30", "alert": false, "receivedDate": "2024-05-23 05:13:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 67.02868832146152, "date": "2024-05-23 05:13:30", "alert": true, "receivedDate": "2024-05-23 05:13:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 79.57656258090597, "date": "2024-05-23 05:13:30", "alert": false, "receivedDate": "2024-05-23 05:13:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 51.29247546545697, "date": "2024-05-23 05:13:30", "alert": true, "receivedDate": "2024-05-23 05:13:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 198.34836858639483, "date": "2024-05-23 05:13:30", "alert": true, "receivedDate": "2024-05-23 05:13:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 190.05752157649795, "date": "2024-05-23 05:13:30", "alert": true, "receivedDate": "2024-05-23 05:13:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -17.009896944901012, "date": "2024-05-23 05:13:30", "alert": true, "receivedDate": "2024-05-23 05:13:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 151.73603979959148, "date": "2024-05-23 05:13:30", "alert": true, "receivedDate": "2024-05-23 05:13:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.88733310822936, "date": "2024-05-23 05:13:30", "alert": false, "receivedDate": "2024-05-23 05:13:30", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:34", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 91.97827760406399, "date": "2024-05-23 05:13:35", "alert": false, "receivedDate": "2024-05-23 05:13:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -32.58382965150547, "date": "2024-05-23 05:13:35", "alert": true, "receivedDate": "2024-05-23 05:13:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 152.1183552150279, "date": "2024-05-23 05:13:35", "alert": true, "receivedDate": "2024-05-23 05:13:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 23.181927941697978, "date": "2024-05-23 05:13:35", "alert": true, "receivedDate": "2024-05-23 05:13:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 169.9116817492063, "date": "2024-05-23 05:13:35", "alert": true, "receivedDate": "2024-05-23 05:13:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 117.92462937389772, "date": "2024-05-23 05:13:35", "alert": true, "receivedDate": "2024-05-23 05:13:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.08634593461295, "date": "2024-05-23 05:13:35", "alert": false, "receivedDate": "2024-05-23 05:13:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 166.7494583547291, "date": "2024-05-23 05:13:35", "alert": true, "receivedDate": "2024-05-23 05:13:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.78514469944555, "date": "2024-05-23 05:13:35", "alert": false, "receivedDate": "2024-05-23 05:13:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 150.2033800676846, "date": "2024-05-23 05:13:35", "alert": true, "receivedDate": "2024-05-23 05:13:35", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:40", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:40", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:40", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:40", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:40", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.54819357167044, "date": "2024-05-23 05:13:40", "alert": false, "receivedDate": "2024-05-23 05:13:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 103.5432759406184, "date": "2024-05-23 05:13:40", "alert": true, "receivedDate": "2024-05-23 05:13:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 151.53557801707888, "date": "2024-05-23 05:13:40", "alert": true, "receivedDate": "2024-05-23 05:13:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 199.71324240012729, "date": "2024-05-23 05:13:40", "alert": true, "receivedDate": "2024-05-23 05:13:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.87151063896704, "date": "2024-05-23 05:13:40", "alert": false, "receivedDate": "2024-05-23 05:13:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 132.05854529923533, "date": "2024-05-23 05:13:40", "alert": true, "receivedDate": "2024-05-23 05:13:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.91504688405541, "date": "2024-05-23 05:13:40", "alert": false, "receivedDate": "2024-05-23 05:13:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 180.59159638357795, "date": "2024-05-23 05:13:40", "alert": true, "receivedDate": "2024-05-23 05:13:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 73.05713254410512, "date": "2024-05-23 05:13:40", "alert": false, "receivedDate": "2024-05-23 05:13:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 78.29853036686474, "date": "2024-05-23 05:13:40", "alert": false, "receivedDate": "2024-05-23 05:13:40", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:43", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 31.54433256161413, "date": "2024-05-23 05:13:45", "alert": true, "receivedDate": "2024-05-23 05:13:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 35.27559432973171, "date": "2024-05-23 05:13:45", "alert": true, "receivedDate": "2024-05-23 05:13:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -42.48762300558008, "date": "2024-05-23 05:13:45", "alert": true, "receivedDate": "2024-05-23 05:13:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.21113231697734, "date": "2024-05-23 05:13:45", "alert": false, "receivedDate": "2024-05-23 05:13:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.82792038556141, "date": "2024-05-23 05:13:45", "alert": false, "receivedDate": "2024-05-23 05:13:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.35995944740615, "date": "2024-05-23 05:13:45", "alert": false, "receivedDate": "2024-05-23 05:13:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 91.21893729549035, "date": "2024-05-23 05:13:45", "alert": false, "receivedDate": "2024-05-23 05:13:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 154.77747501050732, "date": "2024-05-23 05:13:45", "alert": true, "receivedDate": "2024-05-23 05:13:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.40895597478993, "date": "2024-05-23 05:13:45", "alert": false, "receivedDate": "2024-05-23 05:13:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 152.30302641901235, "date": "2024-05-23 05:13:45", "alert": true, "receivedDate": "2024-05-23 05:13:45", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:49", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:49", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:49", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 193.98549707439338, "date": "2024-05-23 05:13:50", "alert": true, "receivedDate": "2024-05-23 05:13:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.63315839784653, "date": "2024-05-23 05:13:50", "alert": false, "receivedDate": "2024-05-23 05:13:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.84906596407683, "date": "2024-05-23 05:13:50", "alert": false, "receivedDate": "2024-05-23 05:13:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 134.0147404562408, "date": "2024-05-23 05:13:50", "alert": true, "receivedDate": "2024-05-23 05:13:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 65.88820746191897, "date": "2024-05-23 05:13:50", "alert": true, "receivedDate": "2024-05-23 05:13:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 27.089908994189592, "date": "2024-05-23 05:13:50", "alert": true, "receivedDate": "2024-05-23 05:13:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 1.3667580219130837, "date": "2024-05-23 05:13:50", "alert": true, "receivedDate": "2024-05-23 05:13:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 52.32918527614665, "date": "2024-05-23 05:13:50", "alert": true, "receivedDate": "2024-05-23 05:13:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 135.2357993542078, "date": "2024-05-23 05:13:50", "alert": true, "receivedDate": "2024-05-23 05:13:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.60093438190226, "date": "2024-05-23 05:13:50", "alert": false, "receivedDate": "2024-05-23 05:13:50", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:55", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:55", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.52085356094535, "date": "2024-05-23 05:13:55", "alert": false, "receivedDate": "2024-05-23 05:13:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 75.21223845739333, "date": "2024-05-23 05:13:55", "alert": false, "receivedDate": "2024-05-23 05:13:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 164.4730014774971, "date": "2024-05-23 05:13:55", "alert": true, "receivedDate": "2024-05-23 05:13:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -94.00977527804277, "date": "2024-05-23 05:13:55", "alert": true, "receivedDate": "2024-05-23 05:13:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 20.094436463544696, "date": "2024-05-23 05:13:55", "alert": true, "receivedDate": "2024-05-23 05:13:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 106.60697795463233, "date": "2024-05-23 05:13:55", "alert": true, "receivedDate": "2024-05-23 05:13:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -15.925178184744725, "date": "2024-05-23 05:13:55", "alert": true, "receivedDate": "2024-05-23 05:13:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.434338285318, "date": "2024-05-23 05:13:55", "alert": false, "receivedDate": "2024-05-23 05:13:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.84203192547096, "date": "2024-05-23 05:13:55", "alert": false, "receivedDate": "2024-05-23 05:13:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 73.78339899376127, "date": "2024-05-23 05:13:55", "alert": false, "receivedDate": "2024-05-23 05:13:55", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:13:58", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 166.1869838531375, "date": "2024-05-23 05:14:00", "alert": true, "receivedDate": "2024-05-23 05:14:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.33787636724061, "date": "2024-05-23 05:14:00", "alert": false, "receivedDate": "2024-05-23 05:14:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.22293857995025, "date": "2024-05-23 05:14:00", "alert": false, "receivedDate": "2024-05-23 05:14:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -3.2512268930515393, "date": "2024-05-23 05:14:00", "alert": true, "receivedDate": "2024-05-23 05:14:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.93165055129076, "date": "2024-05-23 05:14:00", "alert": false, "receivedDate": "2024-05-23 05:14:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 103.4224553265626, "date": "2024-05-23 05:14:00", "alert": true, "receivedDate": "2024-05-23 05:14:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.00431716663299, "date": "2024-05-23 05:14:00", "alert": false, "receivedDate": "2024-05-23 05:14:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 171.06387630315854, "date": "2024-05-23 05:14:00", "alert": true, "receivedDate": "2024-05-23 05:14:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.02242027483494, "date": "2024-05-23 05:14:00", "alert": false, "receivedDate": "2024-05-23 05:14:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.48763909226096, "date": "2024-05-23 05:14:00", "alert": false, "receivedDate": "2024-05-23 05:14:00", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:04", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.46395250254461, "date": "2024-05-23 05:14:05", "alert": false, "receivedDate": "2024-05-23 05:14:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 74.88956744628435, "date": "2024-05-23 05:14:05", "alert": false, "receivedDate": "2024-05-23 05:14:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 101.53885151511963, "date": "2024-05-23 05:14:05", "alert": true, "receivedDate": "2024-05-23 05:14:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.01050189636851, "date": "2024-05-23 05:14:05", "alert": false, "receivedDate": "2024-05-23 05:14:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 187.64584303929115, "date": "2024-05-23 05:14:05", "alert": true, "receivedDate": "2024-05-23 05:14:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 16.857506292495184, "date": "2024-05-23 05:14:05", "alert": true, "receivedDate": "2024-05-23 05:14:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.52587404537825, "date": "2024-05-23 05:14:05", "alert": false, "receivedDate": "2024-05-23 05:14:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.80081708304327, "date": "2024-05-23 05:14:05", "alert": false, "receivedDate": "2024-05-23 05:14:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.54404552356687, "date": "2024-05-23 05:14:05", "alert": false, "receivedDate": "2024-05-23 05:14:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 193.34537534442188, "date": "2024-05-23 05:14:05", "alert": true, "receivedDate": "2024-05-23 05:14:05", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:10", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.72013402775076, "date": "2024-05-23 05:14:10", "alert": false, "receivedDate": "2024-05-23 05:14:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 38.62591094329719, "date": "2024-05-23 05:14:10", "alert": true, "receivedDate": "2024-05-23 05:14:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.8472667996891, "date": "2024-05-23 05:14:10", "alert": false, "receivedDate": "2024-05-23 05:14:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.8843937714291, "date": "2024-05-23 05:14:10", "alert": false, "receivedDate": "2024-05-23 05:14:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 194.51319322022493, "date": "2024-05-23 05:14:10", "alert": true, "receivedDate": "2024-05-23 05:14:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -62.855366549420395, "date": "2024-05-23 05:14:10", "alert": true, "receivedDate": "2024-05-23 05:14:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -71.85981959876663, "date": "2024-05-23 05:14:10", "alert": true, "receivedDate": "2024-05-23 05:14:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.52676243714704, "date": "2024-05-23 05:14:10", "alert": false, "receivedDate": "2024-05-23 05:14:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.67742102676166, "date": "2024-05-23 05:14:10", "alert": false, "receivedDate": "2024-05-23 05:14:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.73500495113356, "date": "2024-05-23 05:14:10", "alert": false, "receivedDate": "2024-05-23 05:14:10", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:13", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 30.146615980419323, "date": "2024-05-23 05:14:15", "alert": true, "receivedDate": "2024-05-23 05:14:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -91.9946914345738, "date": "2024-05-23 05:14:15", "alert": true, "receivedDate": "2024-05-23 05:14:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 67.28913913339237, "date": "2024-05-23 05:14:15", "alert": true, "receivedDate": "2024-05-23 05:14:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 174.90252639330524, "date": "2024-05-23 05:14:15", "alert": true, "receivedDate": "2024-05-23 05:14:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 95.71579806572244, "date": "2024-05-23 05:14:15", "alert": false, "receivedDate": "2024-05-23 05:14:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 87.4018078338004, "date": "2024-05-23 05:14:15", "alert": false, "receivedDate": "2024-05-23 05:14:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 35.33122306395025, "date": "2024-05-23 05:14:15", "alert": true, "receivedDate": "2024-05-23 05:14:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.13171146534248, "date": "2024-05-23 05:14:15", "alert": false, "receivedDate": "2024-05-23 05:14:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.5629113166556, "date": "2024-05-23 05:14:15", "alert": false, "receivedDate": "2024-05-23 05:14:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -29.24276157132078, "date": "2024-05-23 05:14:15", "alert": true, "receivedDate": "2024-05-23 05:14:15", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:19", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 175.49522150209006, "date": "2024-05-23 05:14:20", "alert": true, "receivedDate": "2024-05-23 05:14:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.54547233177679, "date": "2024-05-23 05:14:20", "alert": false, "receivedDate": "2024-05-23 05:14:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 87.33733679143586, "date": "2024-05-23 05:14:20", "alert": false, "receivedDate": "2024-05-23 05:14:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.40339982601654, "date": "2024-05-23 05:14:20", "alert": false, "receivedDate": "2024-05-23 05:14:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -32.18074324178865, "date": "2024-05-23 05:14:20", "alert": true, "receivedDate": "2024-05-23 05:14:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 159.6253809791814, "date": "2024-05-23 05:14:20", "alert": true, "receivedDate": "2024-05-23 05:14:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.33818688307518, "date": "2024-05-23 05:14:20", "alert": false, "receivedDate": "2024-05-23 05:14:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 171.74208583665484, "date": "2024-05-23 05:14:20", "alert": true, "receivedDate": "2024-05-23 05:14:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 14.36470141167019, "date": "2024-05-23 05:14:20", "alert": true, "receivedDate": "2024-05-23 05:14:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 79.21936395845736, "date": "2024-05-23 05:14:20", "alert": false, "receivedDate": "2024-05-23 05:14:20", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:25", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 165.59446319962794, "date": "2024-05-23 05:14:25", "alert": true, "receivedDate": "2024-05-23 05:14:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.91606907992953, "date": "2024-05-23 05:14:25", "alert": false, "receivedDate": "2024-05-23 05:14:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.28900771082363, "date": "2024-05-23 05:14:25", "alert": false, "receivedDate": "2024-05-23 05:14:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.98779161950019, "date": "2024-05-23 05:14:25", "alert": false, "receivedDate": "2024-05-23 05:14:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.42352323771327, "date": "2024-05-23 05:14:25", "alert": false, "receivedDate": "2024-05-23 05:14:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 104.51706891800028, "date": "2024-05-23 05:14:25", "alert": true, "receivedDate": "2024-05-23 05:14:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 3.181910688482059, "date": "2024-05-23 05:14:25", "alert": true, "receivedDate": "2024-05-23 05:14:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 75.33257839543407, "date": "2024-05-23 05:14:25", "alert": false, "receivedDate": "2024-05-23 05:14:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.16244727226538, "date": "2024-05-23 05:14:25", "alert": false, "receivedDate": "2024-05-23 05:14:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 73.8622377439468, "date": "2024-05-23 05:14:25", "alert": false, "receivedDate": "2024-05-23 05:14:25", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:28", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:28", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:28", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:28", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:28", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.58757484500121, "date": "2024-05-23 05:14:30", "alert": false, "receivedDate": "2024-05-23 05:14:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.77131961142756, "date": "2024-05-23 05:14:30", "alert": false, "receivedDate": "2024-05-23 05:14:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 36.64993695743832, "date": "2024-05-23 05:14:30", "alert": true, "receivedDate": "2024-05-23 05:14:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -45.05922553489735, "date": "2024-05-23 05:14:30", "alert": true, "receivedDate": "2024-05-23 05:14:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 77.0528646574922, "date": "2024-05-23 05:14:30", "alert": false, "receivedDate": "2024-05-23 05:14:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.86709835509723, "date": "2024-05-23 05:14:30", "alert": false, "receivedDate": "2024-05-23 05:14:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.73642555155678, "date": "2024-05-23 05:14:30", "alert": false, "receivedDate": "2024-05-23 05:14:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 1.2616697397723309, "date": "2024-05-23 05:14:30", "alert": true, "receivedDate": "2024-05-23 05:14:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 53.56866295774505, "date": "2024-05-23 05:14:30", "alert": true, "receivedDate": "2024-05-23 05:14:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.9393643988907, "date": "2024-05-23 05:14:30", "alert": false, "receivedDate": "2024-05-23 05:14:30", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:34", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 26.06443011405679, "date": "2024-05-23 05:14:35", "alert": true, "receivedDate": "2024-05-23 05:14:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 77.76408732732224, "date": "2024-05-23 05:14:35", "alert": false, "receivedDate": "2024-05-23 05:14:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 79.80887883670084, "date": "2024-05-23 05:14:35", "alert": false, "receivedDate": "2024-05-23 05:14:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 73.265196954327, "date": "2024-05-23 05:14:35", "alert": false, "receivedDate": "2024-05-23 05:14:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -57.25304582398698, "date": "2024-05-23 05:14:35", "alert": true, "receivedDate": "2024-05-23 05:14:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 98.12062230768055, "date": "2024-05-23 05:14:35", "alert": false, "receivedDate": "2024-05-23 05:14:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 131.7369878067647, "date": "2024-05-23 05:14:35", "alert": true, "receivedDate": "2024-05-23 05:14:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.69714922812554, "date": "2024-05-23 05:14:35", "alert": false, "receivedDate": "2024-05-23 05:14:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -6.3842163506451115, "date": "2024-05-23 05:14:35", "alert": true, "receivedDate": "2024-05-23 05:14:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.86407325331513, "date": "2024-05-23 05:14:35", "alert": false, "receivedDate": "2024-05-23 05:14:35", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:40", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 187.85704233499624, "date": "2024-05-23 05:14:40", "alert": true, "receivedDate": "2024-05-23 05:14:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 23.36120694666841, "date": "2024-05-23 05:14:40", "alert": true, "receivedDate": "2024-05-23 05:14:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.95546321323846, "date": "2024-05-23 05:14:40", "alert": false, "receivedDate": "2024-05-23 05:14:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 62.41846778145459, "date": "2024-05-23 05:14:40", "alert": true, "receivedDate": "2024-05-23 05:14:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 79.60341467802206, "date": "2024-05-23 05:14:40", "alert": false, "receivedDate": "2024-05-23 05:14:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 102.5039371129942, "date": "2024-05-23 05:14:40", "alert": true, "receivedDate": "2024-05-23 05:14:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -74.24291142372476, "date": "2024-05-23 05:14:40", "alert": true, "receivedDate": "2024-05-23 05:14:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.47143825092985, "date": "2024-05-23 05:14:40", "alert": false, "receivedDate": "2024-05-23 05:14:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 15.699889590677362, "date": "2024-05-23 05:14:40", "alert": true, "receivedDate": "2024-05-23 05:14:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 155.4024313432686, "date": "2024-05-23 05:14:40", "alert": true, "receivedDate": "2024-05-23 05:14:40", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:43", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.7085134920917, "date": "2024-05-23 05:14:45", "alert": false, "receivedDate": "2024-05-23 05:14:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 85.55706528153179, "date": "2024-05-23 05:14:45", "alert": false, "receivedDate": "2024-05-23 05:14:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 36.34834728319347, "date": "2024-05-23 05:14:45", "alert": true, "receivedDate": "2024-05-23 05:14:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 129.30748679919353, "date": "2024-05-23 05:14:45", "alert": true, "receivedDate": "2024-05-23 05:14:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.54770451738791, "date": "2024-05-23 05:14:45", "alert": false, "receivedDate": "2024-05-23 05:14:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.63209866737901, "date": "2024-05-23 05:14:45", "alert": false, "receivedDate": "2024-05-23 05:14:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 59.46130446053785, "date": "2024-05-23 05:14:45", "alert": true, "receivedDate": "2024-05-23 05:14:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 154.00095772433184, "date": "2024-05-23 05:14:45", "alert": true, "receivedDate": "2024-05-23 05:14:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.17424085627431, "date": "2024-05-23 05:14:45", "alert": false, "receivedDate": "2024-05-23 05:14:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.38289010750398, "date": "2024-05-23 05:14:45", "alert": false, "receivedDate": "2024-05-23 05:14:45", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:49", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:49", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:49", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:49", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:49", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 132.17053350361581, "date": "2024-05-23 05:14:50", "alert": true, "receivedDate": "2024-05-23 05:14:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 91.02303584597254, "date": "2024-05-23 05:14:50", "alert": false, "receivedDate": "2024-05-23 05:14:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.42083527023303, "date": "2024-05-23 05:14:50", "alert": false, "receivedDate": "2024-05-23 05:14:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 65.26503312552225, "date": "2024-05-23 05:14:50", "alert": true, "receivedDate": "2024-05-23 05:14:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.36141230011852, "date": "2024-05-23 05:14:50", "alert": false, "receivedDate": "2024-05-23 05:14:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 168.85372276641695, "date": "2024-05-23 05:14:50", "alert": true, "receivedDate": "2024-05-23 05:14:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.87755697210929, "date": "2024-05-23 05:14:50", "alert": false, "receivedDate": "2024-05-23 05:14:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.82634984201104, "date": "2024-05-23 05:14:50", "alert": false, "receivedDate": "2024-05-23 05:14:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 60.15199222444594, "date": "2024-05-23 05:14:50", "alert": true, "receivedDate": "2024-05-23 05:14:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.08833052047055, "date": "2024-05-23 05:14:50", "alert": false, "receivedDate": "2024-05-23 05:14:50", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:55", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:55", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:55", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.44467274332335, "date": "2024-05-23 05:14:55", "alert": false, "receivedDate": "2024-05-23 05:14:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 91.2960178945256, "date": "2024-05-23 05:14:55", "alert": false, "receivedDate": "2024-05-23 05:14:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 91.45734847592095, "date": "2024-05-23 05:14:55", "alert": false, "receivedDate": "2024-05-23 05:14:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 46.895566073438765, "date": "2024-05-23 05:14:55", "alert": true, "receivedDate": "2024-05-23 05:14:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 158.7097752640895, "date": "2024-05-23 05:14:55", "alert": true, "receivedDate": "2024-05-23 05:14:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 71.82320966624356, "date": "2024-05-23 05:14:55", "alert": false, "receivedDate": "2024-05-23 05:14:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 123.59910909073453, "date": "2024-05-23 05:14:55", "alert": true, "receivedDate": "2024-05-23 05:14:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.63213300984334, "date": "2024-05-23 05:14:55", "alert": false, "receivedDate": "2024-05-23 05:14:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.47678183897881, "date": "2024-05-23 05:14:55", "alert": false, "receivedDate": "2024-05-23 05:14:55", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:14:58", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 79.51901525054315, "date": "2024-05-23 05:15:00", "alert": false, "receivedDate": "2024-05-23 05:15:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 87.58200028258368, "date": "2024-05-23 05:15:00", "alert": false, "receivedDate": "2024-05-23 05:15:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 14.458063859321314, "date": "2024-05-23 05:15:00", "alert": true, "receivedDate": "2024-05-23 05:15:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.13689666797731, "date": "2024-05-23 05:15:00", "alert": false, "receivedDate": "2024-05-23 05:15:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 181.64936636382149, "date": "2024-05-23 05:15:00", "alert": true, "receivedDate": "2024-05-23 05:15:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 98.36741202367055, "date": "2024-05-23 05:15:00", "alert": false, "receivedDate": "2024-05-23 05:15:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.61422097177281, "date": "2024-05-23 05:15:00", "alert": false, "receivedDate": "2024-05-23 05:15:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -3.749696900812232, "date": "2024-05-23 05:15:00", "alert": true, "receivedDate": "2024-05-23 05:15:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 91.50429992889913, "date": "2024-05-23 05:15:00", "alert": false, "receivedDate": "2024-05-23 05:15:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.90601726367285, "date": "2024-05-23 05:15:00", "alert": false, "receivedDate": "2024-05-23 05:15:00", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:04", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.92266501584368, "date": "2024-05-23 05:15:05", "alert": false, "receivedDate": "2024-05-23 05:15:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.62749244541838, "date": "2024-05-23 05:15:05", "alert": false, "receivedDate": "2024-05-23 05:15:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 38.37453737431842, "date": "2024-05-23 05:15:05", "alert": true, "receivedDate": "2024-05-23 05:15:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.84874794949275, "date": "2024-05-23 05:15:05", "alert": false, "receivedDate": "2024-05-23 05:15:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 62.28284212991593, "date": "2024-05-23 05:15:05", "alert": true, "receivedDate": "2024-05-23 05:15:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.32944046885109, "date": "2024-05-23 05:15:05", "alert": false, "receivedDate": "2024-05-23 05:15:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.84108740376637, "date": "2024-05-23 05:15:05", "alert": false, "receivedDate": "2024-05-23 05:15:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -92.63819385944734, "date": "2024-05-23 05:15:05", "alert": true, "receivedDate": "2024-05-23 05:15:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 140.1288847963729, "date": "2024-05-23 05:15:05", "alert": true, "receivedDate": "2024-05-23 05:15:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.2188495135158, "date": "2024-05-23 05:15:05", "alert": false, "receivedDate": "2024-05-23 05:15:05", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:10", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 192.9425515939353, "date": "2024-05-23 05:15:10", "alert": true, "receivedDate": "2024-05-23 05:15:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 164.2992576325222, "date": "2024-05-23 05:15:10", "alert": true, "receivedDate": "2024-05-23 05:15:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 85.63274783560063, "date": "2024-05-23 05:15:10", "alert": false, "receivedDate": "2024-05-23 05:15:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 160.7596198877615, "date": "2024-05-23 05:15:10", "alert": true, "receivedDate": "2024-05-23 05:15:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.54162392164744, "date": "2024-05-23 05:15:10", "alert": false, "receivedDate": "2024-05-23 05:15:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.70075406711148, "date": "2024-05-23 05:15:10", "alert": false, "receivedDate": "2024-05-23 05:15:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.42888258691862, "date": "2024-05-23 05:15:10", "alert": false, "receivedDate": "2024-05-23 05:15:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 156.8229260655704, "date": "2024-05-23 05:15:10", "alert": true, "receivedDate": "2024-05-23 05:15:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 28.895813768809408, "date": "2024-05-23 05:15:10", "alert": true, "receivedDate": "2024-05-23 05:15:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -45.7084916157244, "date": "2024-05-23 05:15:10", "alert": true, "receivedDate": "2024-05-23 05:15:10", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:13", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 127.3416752180752, "date": "2024-05-23 05:15:15", "alert": true, "receivedDate": "2024-05-23 05:15:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.63900006411218, "date": "2024-05-23 05:15:15", "alert": false, "receivedDate": "2024-05-23 05:15:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.82943901616976, "date": "2024-05-23 05:15:15", "alert": false, "receivedDate": "2024-05-23 05:15:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.88791234082741, "date": "2024-05-23 05:15:15", "alert": false, "receivedDate": "2024-05-23 05:15:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.12570632092319, "date": "2024-05-23 05:15:15", "alert": false, "receivedDate": "2024-05-23 05:15:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 91.20508904926737, "date": "2024-05-23 05:15:15", "alert": false, "receivedDate": "2024-05-23 05:15:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 62.007713417475685, "date": "2024-05-23 05:15:15", "alert": true, "receivedDate": "2024-05-23 05:15:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 87.41872678642463, "date": "2024-05-23 05:15:15", "alert": false, "receivedDate": "2024-05-23 05:15:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 112.75539694760374, "date": "2024-05-23 05:15:15", "alert": true, "receivedDate": "2024-05-23 05:15:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 56.10888013878821, "date": "2024-05-23 05:15:15", "alert": true, "receivedDate": "2024-05-23 05:15:15", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:19", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 119.29137712165345, "date": "2024-05-23 05:15:20", "alert": true, "receivedDate": "2024-05-23 05:15:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.15479916163692, "date": "2024-05-23 05:15:20", "alert": false, "receivedDate": "2024-05-23 05:15:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 145.7576330306942, "date": "2024-05-23 05:15:20", "alert": true, "receivedDate": "2024-05-23 05:15:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 164.0043344665139, "date": "2024-05-23 05:15:20", "alert": true, "receivedDate": "2024-05-23 05:15:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 157.2124438622817, "date": "2024-05-23 05:15:20", "alert": true, "receivedDate": "2024-05-23 05:15:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.07254467954068, "date": "2024-05-23 05:15:20", "alert": false, "receivedDate": "2024-05-23 05:15:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 106.26093108550074, "date": "2024-05-23 05:15:20", "alert": true, "receivedDate": "2024-05-23 05:15:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 98.23226644655111, "date": "2024-05-23 05:15:20", "alert": false, "receivedDate": "2024-05-23 05:15:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 110.83624966596655, "date": "2024-05-23 05:15:20", "alert": true, "receivedDate": "2024-05-23 05:15:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 77.74821793794496, "date": "2024-05-23 05:15:20", "alert": false, "receivedDate": "2024-05-23 05:15:20", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:25", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 148.57246037487187, "date": "2024-05-23 05:15:25", "alert": true, "receivedDate": "2024-05-23 05:15:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.85995645032588, "date": "2024-05-23 05:15:25", "alert": false, "receivedDate": "2024-05-23 05:15:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 35.957024715931965, "date": "2024-05-23 05:15:25", "alert": true, "receivedDate": "2024-05-23 05:15:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.02610270034278, "date": "2024-05-23 05:15:25", "alert": false, "receivedDate": "2024-05-23 05:15:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 71.10306205350867, "date": "2024-05-23 05:15:25", "alert": false, "receivedDate": "2024-05-23 05:15:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 75.73646218515603, "date": "2024-05-23 05:15:25", "alert": false, "receivedDate": "2024-05-23 05:15:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -39.89758409838356, "date": "2024-05-23 05:15:25", "alert": true, "receivedDate": "2024-05-23 05:15:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 30.546723340735692, "date": "2024-05-23 05:15:25", "alert": true, "receivedDate": "2024-05-23 05:15:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 5.173216576176332, "date": "2024-05-23 05:15:25", "alert": true, "receivedDate": "2024-05-23 05:15:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.00415469560225, "date": "2024-05-23 05:15:25", "alert": false, "receivedDate": "2024-05-23 05:15:25", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:28", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:28", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:28", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:28", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.24658173032618, "date": "2024-05-23 05:15:30", "alert": false, "receivedDate": "2024-05-23 05:15:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 57.64586519492294, "date": "2024-05-23 05:15:30", "alert": true, "receivedDate": "2024-05-23 05:15:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 121.79310143297941, "date": "2024-05-23 05:15:30", "alert": true, "receivedDate": "2024-05-23 05:15:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.54033299499488, "date": "2024-05-23 05:15:30", "alert": false, "receivedDate": "2024-05-23 05:15:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.49524652869374, "date": "2024-05-23 05:15:30", "alert": false, "receivedDate": "2024-05-23 05:15:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 74.53714523037516, "date": "2024-05-23 05:15:30", "alert": false, "receivedDate": "2024-05-23 05:15:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.21248256635755, "date": "2024-05-23 05:15:30", "alert": false, "receivedDate": "2024-05-23 05:15:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 19.871189107549682, "date": "2024-05-23 05:15:30", "alert": true, "receivedDate": "2024-05-23 05:15:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.52917590050157, "date": "2024-05-23 05:15:30", "alert": false, "receivedDate": "2024-05-23 05:15:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.18263498572539, "date": "2024-05-23 05:15:30", "alert": false, "receivedDate": "2024-05-23 05:15:30", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:34", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 78.67129034263404, "date": "2024-05-23 05:15:35", "alert": false, "receivedDate": "2024-05-23 05:15:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -79.25904576435549, "date": "2024-05-23 05:15:35", "alert": true, "receivedDate": "2024-05-23 05:15:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.45121616662179, "date": "2024-05-23 05:15:35", "alert": false, "receivedDate": "2024-05-23 05:15:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.77894129511365, "date": "2024-05-23 05:15:35", "alert": false, "receivedDate": "2024-05-23 05:15:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 29.861602943172414, "date": "2024-05-23 05:15:35", "alert": true, "receivedDate": "2024-05-23 05:15:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 18.821539916651652, "date": "2024-05-23 05:15:35", "alert": true, "receivedDate": "2024-05-23 05:15:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.75227100449793, "date": "2024-05-23 05:15:35", "alert": false, "receivedDate": "2024-05-23 05:15:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 80.6929813821425, "date": "2024-05-23 05:15:35", "alert": false, "receivedDate": "2024-05-23 05:15:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 140.9351547476535, "date": "2024-05-23 05:15:35", "alert": true, "receivedDate": "2024-05-23 05:15:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -4.709636883124189, "date": "2024-05-23 05:15:35", "alert": true, "receivedDate": "2024-05-23 05:15:35", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:40", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:40", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:40", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.39815963510463, "date": "2024-05-23 05:15:40", "alert": false, "receivedDate": "2024-05-23 05:15:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 87.01446291428061, "date": "2024-05-23 05:15:40", "alert": false, "receivedDate": "2024-05-23 05:15:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 14.467575171101533, "date": "2024-05-23 05:15:40", "alert": true, "receivedDate": "2024-05-23 05:15:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 77.76066386795381, "date": "2024-05-23 05:15:40", "alert": false, "receivedDate": "2024-05-23 05:15:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 4.96856040808491, "date": "2024-05-23 05:15:40", "alert": true, "receivedDate": "2024-05-23 05:15:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.29104799698173, "date": "2024-05-23 05:15:40", "alert": false, "receivedDate": "2024-05-23 05:15:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.73397146582029, "date": "2024-05-23 05:15:40", "alert": false, "receivedDate": "2024-05-23 05:15:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 124.91874538376939, "date": "2024-05-23 05:15:40", "alert": true, "receivedDate": "2024-05-23 05:15:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 85.38142788013357, "date": "2024-05-23 05:15:40", "alert": false, "receivedDate": "2024-05-23 05:15:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.55569270522233, "date": "2024-05-23 05:15:40", "alert": false, "receivedDate": "2024-05-23 05:15:40", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:43", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -81.27023566422463, "date": "2024-05-23 05:15:45", "alert": true, "receivedDate": "2024-05-23 05:15:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -69.92356720510317, "date": "2024-05-23 05:15:45", "alert": true, "receivedDate": "2024-05-23 05:15:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.28691277033622, "date": "2024-05-23 05:15:45", "alert": false, "receivedDate": "2024-05-23 05:15:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 132.45047531659995, "date": "2024-05-23 05:15:45", "alert": true, "receivedDate": "2024-05-23 05:15:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 36.03379364376049, "date": "2024-05-23 05:15:45", "alert": true, "receivedDate": "2024-05-23 05:15:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 161.81528887815304, "date": "2024-05-23 05:15:45", "alert": true, "receivedDate": "2024-05-23 05:15:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.62494610567701, "date": "2024-05-23 05:15:45", "alert": false, "receivedDate": "2024-05-23 05:15:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.06558132137138, "date": "2024-05-23 05:15:45", "alert": false, "receivedDate": "2024-05-23 05:15:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.02873746810839, "date": "2024-05-23 05:15:45", "alert": false, "receivedDate": "2024-05-23 05:15:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 128.79271707903288, "date": "2024-05-23 05:15:45", "alert": true, "receivedDate": "2024-05-23 05:15:45", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:49", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:49", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 93.56489826261793, "date": "2024-05-23 05:15:50", "alert": false, "receivedDate": "2024-05-23 05:15:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.05129931010734, "date": "2024-05-23 05:15:50", "alert": false, "receivedDate": "2024-05-23 05:15:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 160.29822410136472, "date": "2024-05-23 05:15:50", "alert": true, "receivedDate": "2024-05-23 05:15:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 38.06156240399552, "date": "2024-05-23 05:15:50", "alert": true, "receivedDate": "2024-05-23 05:15:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 165.84490806238395, "date": "2024-05-23 05:15:50", "alert": true, "receivedDate": "2024-05-23 05:15:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 187.05958390009954, "date": "2024-05-23 05:15:50", "alert": true, "receivedDate": "2024-05-23 05:15:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 79.77327201552987, "date": "2024-05-23 05:15:50", "alert": false, "receivedDate": "2024-05-23 05:15:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.43672554145776, "date": "2024-05-23 05:15:50", "alert": false, "receivedDate": "2024-05-23 05:15:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 190.99951360999924, "date": "2024-05-23 05:15:51", "alert": true, "receivedDate": "2024-05-23 05:15:51", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 195.49303068932608, "date": "2024-05-23 05:15:51", "alert": true, "receivedDate": "2024-05-23 05:15:51", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:55", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:55", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:55", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:55", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:55", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 136.6014319300997, "date": "2024-05-23 05:15:55", "alert": true, "receivedDate": "2024-05-23 05:15:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.56568375903606, "date": "2024-05-23 05:15:55", "alert": false, "receivedDate": "2024-05-23 05:15:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.43101253890259, "date": "2024-05-23 05:15:55", "alert": false, "receivedDate": "2024-05-23 05:15:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 193.5819484275647, "date": "2024-05-23 05:15:55", "alert": true, "receivedDate": "2024-05-23 05:15:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 77.74494632866123, "date": "2024-05-23 05:15:55", "alert": false, "receivedDate": "2024-05-23 05:15:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 45.13446930580318, "date": "2024-05-23 05:15:55", "alert": true, "receivedDate": "2024-05-23 05:15:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.76402724567512, "date": "2024-05-23 05:15:55", "alert": false, "receivedDate": "2024-05-23 05:15:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 73.24200052968106, "date": "2024-05-23 05:15:55", "alert": false, "receivedDate": "2024-05-23 05:15:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 78.5351754030456, "date": "2024-05-23 05:15:56", "alert": false, "receivedDate": "2024-05-23 05:15:56", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.80279116994033, "date": "2024-05-23 05:15:56", "alert": false, "receivedDate": "2024-05-23 05:15:56", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:15:58", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 53.82856168733019, "date": "2024-05-23 05:16:00", "alert": true, "receivedDate": "2024-05-23 05:16:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 41.22964546378392, "date": "2024-05-23 05:16:00", "alert": true, "receivedDate": "2024-05-23 05:16:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 182.66246949361897, "date": "2024-05-23 05:16:00", "alert": true, "receivedDate": "2024-05-23 05:16:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 199.23419577945137, "date": "2024-05-23 05:16:00", "alert": true, "receivedDate": "2024-05-23 05:16:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 106.3376586184354, "date": "2024-05-23 05:16:00", "alert": true, "receivedDate": "2024-05-23 05:16:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 74.3256014190832, "date": "2024-05-23 05:16:00", "alert": false, "receivedDate": "2024-05-23 05:16:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 73.84663545227686, "date": "2024-05-23 05:16:00", "alert": false, "receivedDate": "2024-05-23 05:16:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 159.2582854451135, "date": "2024-05-23 05:16:00", "alert": true, "receivedDate": "2024-05-23 05:16:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 68.08248502834844, "date": "2024-05-23 05:16:01", "alert": true, "receivedDate": "2024-05-23 05:16:01", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.63147641450757, "date": "2024-05-23 05:16:01", "alert": false, "receivedDate": "2024-05-23 05:16:01", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:04", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 44.29680046278421, "date": "2024-05-23 05:16:05", "alert": true, "receivedDate": "2024-05-23 05:16:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.05950263330318, "date": "2024-05-23 05:16:05", "alert": false, "receivedDate": "2024-05-23 05:16:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.38037987520829, "date": "2024-05-23 05:16:05", "alert": false, "receivedDate": "2024-05-23 05:16:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -2.839310385595495, "date": "2024-05-23 05:16:05", "alert": true, "receivedDate": "2024-05-23 05:16:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 46.40383155622063, "date": "2024-05-23 05:16:05", "alert": true, "receivedDate": "2024-05-23 05:16:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.01965432932623, "date": "2024-05-23 05:16:05", "alert": false, "receivedDate": "2024-05-23 05:16:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 87.97332536566137, "date": "2024-05-23 05:16:05", "alert": false, "receivedDate": "2024-05-23 05:16:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.99288503505062, "date": "2024-05-23 05:16:05", "alert": false, "receivedDate": "2024-05-23 05:16:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -31.023192801828724, "date": "2024-05-23 05:16:06", "alert": true, "receivedDate": "2024-05-23 05:16:06", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 74.46662309036587, "date": "2024-05-23 05:16:06", "alert": false, "receivedDate": "2024-05-23 05:16:06", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:10", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.58073005533537, "date": "2024-05-23 05:16:10", "alert": false, "receivedDate": "2024-05-23 05:16:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 87.30512883210469, "date": "2024-05-23 05:16:10", "alert": false, "receivedDate": "2024-05-23 05:16:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 79.85534975292501, "date": "2024-05-23 05:16:10", "alert": false, "receivedDate": "2024-05-23 05:16:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 115.41968538122222, "date": "2024-05-23 05:16:10", "alert": true, "receivedDate": "2024-05-23 05:16:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 111.97958645182548, "date": "2024-05-23 05:16:10", "alert": true, "receivedDate": "2024-05-23 05:16:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 74.48146505974546, "date": "2024-05-23 05:16:10", "alert": false, "receivedDate": "2024-05-23 05:16:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 54.509055299179245, "date": "2024-05-23 05:16:10", "alert": true, "receivedDate": "2024-05-23 05:16:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.82745836816589, "date": "2024-05-23 05:16:10", "alert": false, "receivedDate": "2024-05-23 05:16:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.15950068906922, "date": "2024-05-23 05:16:11", "alert": false, "receivedDate": "2024-05-23 05:16:11", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 51.881862321043485, "date": "2024-05-23 05:16:11", "alert": true, "receivedDate": "2024-05-23 05:16:11", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:13", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -26.227766595811172, "date": "2024-05-23 05:16:15", "alert": true, "receivedDate": "2024-05-23 05:16:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 48.273083697416894, "date": "2024-05-23 05:16:15", "alert": true, "receivedDate": "2024-05-23 05:16:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -29.20812957239522, "date": "2024-05-23 05:16:15", "alert": true, "receivedDate": "2024-05-23 05:16:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 74.30184718959231, "date": "2024-05-23 05:16:15", "alert": false, "receivedDate": "2024-05-23 05:16:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.07964737699571, "date": "2024-05-23 05:16:15", "alert": false, "receivedDate": "2024-05-23 05:16:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 144.5796124047658, "date": "2024-05-23 05:16:15", "alert": true, "receivedDate": "2024-05-23 05:16:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 139.9156864093036, "date": "2024-05-23 05:16:15", "alert": true, "receivedDate": "2024-05-23 05:16:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.92736552394601, "date": "2024-05-23 05:16:16", "alert": false, "receivedDate": "2024-05-23 05:16:16", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.46691246953027, "date": "2024-05-23 05:16:16", "alert": false, "receivedDate": "2024-05-23 05:16:16", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -59.54957313618885, "date": "2024-05-23 05:16:16", "alert": true, "receivedDate": "2024-05-23 05:16:16", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:19", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 163.1435067888639, "date": "2024-05-23 05:16:20", "alert": true, "receivedDate": "2024-05-23 05:16:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.94147144344295, "date": "2024-05-23 05:16:20", "alert": false, "receivedDate": "2024-05-23 05:16:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.9050938279821, "date": "2024-05-23 05:16:20", "alert": false, "receivedDate": "2024-05-23 05:16:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 26.739956496035, "date": "2024-05-23 05:16:20", "alert": true, "receivedDate": "2024-05-23 05:16:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 169.59540617985397, "date": "2024-05-23 05:16:20", "alert": true, "receivedDate": "2024-05-23 05:16:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.0438850033713, "date": "2024-05-23 05:16:20", "alert": false, "receivedDate": "2024-05-23 05:16:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -93.88058712129805, "date": "2024-05-23 05:16:20", "alert": true, "receivedDate": "2024-05-23 05:16:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 74.11427849393381, "date": "2024-05-23 05:16:21", "alert": false, "receivedDate": "2024-05-23 05:16:21", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -31.107760121484205, "date": "2024-05-23 05:16:21", "alert": true, "receivedDate": "2024-05-23 05:16:21", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.32682804315118, "date": "2024-05-23 05:16:21", "alert": false, "receivedDate": "2024-05-23 05:16:21", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:25", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.76384611677332, "date": "2024-05-23 05:16:25", "alert": false, "receivedDate": "2024-05-23 05:16:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 73.98481848920584, "date": "2024-05-23 05:16:25", "alert": false, "receivedDate": "2024-05-23 05:16:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.2378198397835, "date": "2024-05-23 05:16:25", "alert": false, "receivedDate": "2024-05-23 05:16:25", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:25", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 151.1115948245918, "date": "2024-05-23 05:16:25", "alert": true, "receivedDate": "2024-05-23 05:16:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -18.791288841825615, "date": "2024-05-23 05:16:25", "alert": true, "receivedDate": "2024-05-23 05:16:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.29121129681505, "date": "2024-05-23 05:16:25", "alert": false, "receivedDate": "2024-05-23 05:16:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 83.86577112657639, "date": "2024-05-23 05:16:25", "alert": false, "receivedDate": "2024-05-23 05:16:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 58.57451996358405, "date": "2024-05-23 05:16:26", "alert": true, "receivedDate": "2024-05-23 05:16:26", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.53656658677366, "date": "2024-05-23 05:16:26", "alert": false, "receivedDate": "2024-05-23 05:16:26", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 187.9751187372429, "date": "2024-05-23 05:16:26", "alert": true, "receivedDate": "2024-05-23 05:16:26", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:28", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 75.74454097024245, "date": "2024-05-23 05:16:30", "alert": false, "receivedDate": "2024-05-23 05:16:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 91.49941009412248, "date": "2024-05-23 05:16:30", "alert": false, "receivedDate": "2024-05-23 05:16:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 98.77723325186383, "date": "2024-05-23 05:16:30", "alert": false, "receivedDate": "2024-05-23 05:16:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 114.21660704184022, "date": "2024-05-23 05:16:30", "alert": true, "receivedDate": "2024-05-23 05:16:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 199.90938794523413, "date": "2024-05-23 05:16:30", "alert": true, "receivedDate": "2024-05-23 05:16:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -32.31474256346765, "date": "2024-05-23 05:16:30", "alert": true, "receivedDate": "2024-05-23 05:16:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 190.12064315024523, "date": "2024-05-23 05:16:30", "alert": true, "receivedDate": "2024-05-23 05:16:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 78.64918189151888, "date": "2024-05-23 05:16:31", "alert": false, "receivedDate": "2024-05-23 05:16:31", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 181.2057090212594, "date": "2024-05-23 05:16:31", "alert": true, "receivedDate": "2024-05-23 05:16:31", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.3025210403095, "date": "2024-05-23 05:16:31", "alert": false, "receivedDate": "2024-05-23 05:16:31", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:34", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -92.14589450059745, "date": "2024-05-23 05:16:35", "alert": true, "receivedDate": "2024-05-23 05:16:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.02466479521027, "date": "2024-05-23 05:16:35", "alert": false, "receivedDate": "2024-05-23 05:16:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.7459273160647, "date": "2024-05-23 05:16:35", "alert": false, "receivedDate": "2024-05-23 05:16:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 95.02555086577064, "date": "2024-05-23 05:16:35", "alert": false, "receivedDate": "2024-05-23 05:16:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 29.038883493568424, "date": "2024-05-23 05:16:35", "alert": true, "receivedDate": "2024-05-23 05:16:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.26730807372866, "date": "2024-05-23 05:16:35", "alert": false, "receivedDate": "2024-05-23 05:16:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.45360119443424, "date": "2024-05-23 05:16:35", "alert": false, "receivedDate": "2024-05-23 05:16:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.4937890273483, "date": "2024-05-23 05:16:36", "alert": false, "receivedDate": "2024-05-23 05:16:36", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 73.52222766648897, "date": "2024-05-23 05:16:36", "alert": false, "receivedDate": "2024-05-23 05:16:36", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.62359091763715, "date": "2024-05-23 05:16:36", "alert": false, "receivedDate": "2024-05-23 05:16:36", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:40", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:40", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:40", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:40", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.83149183076274, "date": "2024-05-23 05:16:40", "alert": false, "receivedDate": "2024-05-23 05:16:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 95.15073879116224, "date": "2024-05-23 05:16:40", "alert": false, "receivedDate": "2024-05-23 05:16:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 5.427545393044508, "date": "2024-05-23 05:16:40", "alert": true, "receivedDate": "2024-05-23 05:16:40", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:40", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 182.39668136089844, "date": "2024-05-23 05:16:40", "alert": true, "receivedDate": "2024-05-23 05:16:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 103.84657700852719, "date": "2024-05-23 05:16:40", "alert": true, "receivedDate": "2024-05-23 05:16:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.6097245899723, "date": "2024-05-23 05:16:40", "alert": false, "receivedDate": "2024-05-23 05:16:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 184.50577464632676, "date": "2024-05-23 05:16:40", "alert": true, "receivedDate": "2024-05-23 05:16:40", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 29.476158558112118, "date": "2024-05-23 05:16:41", "alert": true, "receivedDate": "2024-05-23 05:16:41", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 132.60285662588893, "date": "2024-05-23 05:16:41", "alert": true, "receivedDate": "2024-05-23 05:16:41", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 185.5511559882943, "date": "2024-05-23 05:16:41", "alert": true, "receivedDate": "2024-05-23 05:16:41", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:43", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:43", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 88.75575096606958, "date": "2024-05-23 05:16:45", "alert": false, "receivedDate": "2024-05-23 05:16:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 188.8934709373315, "date": "2024-05-23 05:16:45", "alert": true, "receivedDate": "2024-05-23 05:16:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 161.54685926584597, "date": "2024-05-23 05:16:45", "alert": true, "receivedDate": "2024-05-23 05:16:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 185.4449819569262, "date": "2024-05-23 05:16:45", "alert": true, "receivedDate": "2024-05-23 05:16:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.68697985603734, "date": "2024-05-23 05:16:45", "alert": false, "receivedDate": "2024-05-23 05:16:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.25764811484625, "date": "2024-05-23 05:16:45", "alert": false, "receivedDate": "2024-05-23 05:16:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.86228479808632, "date": "2024-05-23 05:16:45", "alert": false, "receivedDate": "2024-05-23 05:16:45", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.03937882899001, "date": "2024-05-23 05:16:46", "alert": false, "receivedDate": "2024-05-23 05:16:46", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 118.1236579365435, "date": "2024-05-23 05:16:46", "alert": true, "receivedDate": "2024-05-23 05:16:46", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 5.217343909988381, "date": "2024-05-23 05:16:46", "alert": true, "receivedDate": "2024-05-23 05:16:46", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:46", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:49", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:49", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 91.54376329836344, "date": "2024-05-23 05:16:50", "alert": false, "receivedDate": "2024-05-23 05:16:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 71.73788129201772, "date": "2024-05-23 05:16:50", "alert": false, "receivedDate": "2024-05-23 05:16:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 14.771226290368777, "date": "2024-05-23 05:16:50", "alert": true, "receivedDate": "2024-05-23 05:16:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 187.66367078037956, "date": "2024-05-23 05:16:50", "alert": true, "receivedDate": "2024-05-23 05:16:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -52.89533265462385, "date": "2024-05-23 05:16:50", "alert": true, "receivedDate": "2024-05-23 05:16:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.05550496736535, "date": "2024-05-23 05:16:50", "alert": false, "receivedDate": "2024-05-23 05:16:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 91.2639725379777, "date": "2024-05-23 05:16:50", "alert": false, "receivedDate": "2024-05-23 05:16:50", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 131.08388576634962, "date": "2024-05-23 05:16:51", "alert": true, "receivedDate": "2024-05-23 05:16:51", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 42.82921945968068, "date": "2024-05-23 05:16:51", "alert": true, "receivedDate": "2024-05-23 05:16:51", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 38.47012042672864, "date": "2024-05-23 05:16:51", "alert": true, "receivedDate": "2024-05-23 05:16:51", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:52", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:55", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:55", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 61.834368113798746, "date": "2024-05-23 05:16:55", "alert": true, "receivedDate": "2024-05-23 05:16:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 197.34700571420456, "date": "2024-05-23 05:16:55", "alert": true, "receivedDate": "2024-05-23 05:16:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 85.9074860982893, "date": "2024-05-23 05:16:55", "alert": false, "receivedDate": "2024-05-23 05:16:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.29320284423473, "date": "2024-05-23 05:16:55", "alert": false, "receivedDate": "2024-05-23 05:16:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 138.8920273542772, "date": "2024-05-23 05:16:55", "alert": true, "receivedDate": "2024-05-23 05:16:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 4.050031908067164, "date": "2024-05-23 05:16:55", "alert": true, "receivedDate": "2024-05-23 05:16:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 179.08150750525095, "date": "2024-05-23 05:16:55", "alert": true, "receivedDate": "2024-05-23 05:16:55", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 19.692622545228456, "date": "2024-05-23 05:16:56", "alert": true, "receivedDate": "2024-05-23 05:16:56", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 95.59642587260944, "date": "2024-05-23 05:16:56", "alert": false, "receivedDate": "2024-05-23 05:16:56", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 77.23976882846922, "date": "2024-05-23 05:16:56", "alert": false, "receivedDate": "2024-05-23 05:16:56", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:58", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:16:58", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 2.1100440761948835, "date": "2024-05-23 05:17:00", "alert": true, "receivedDate": "2024-05-23 05:17:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 86.65236051014338, "date": "2024-05-23 05:17:00", "alert": false, "receivedDate": "2024-05-23 05:17:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 103.88474346901766, "date": "2024-05-23 05:17:00", "alert": true, "receivedDate": "2024-05-23 05:17:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 162.9945218811211, "date": "2024-05-23 05:17:00", "alert": true, "receivedDate": "2024-05-23 05:17:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 78.0262874139509, "date": "2024-05-23 05:17:00", "alert": false, "receivedDate": "2024-05-23 05:17:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 55.91920877997389, "date": "2024-05-23 05:17:00", "alert": true, "receivedDate": "2024-05-23 05:17:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.03115255373906, "date": "2024-05-23 05:17:00", "alert": false, "receivedDate": "2024-05-23 05:17:00", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 80.44733083664377, "date": "2024-05-23 05:17:01", "alert": false, "receivedDate": "2024-05-23 05:17:01", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 118.64531890715362, "date": "2024-05-23 05:17:01", "alert": true, "receivedDate": "2024-05-23 05:17:01", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.78411815954595, "date": "2024-05-23 05:17:01", "alert": false, "receivedDate": "2024-05-23 05:17:01", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:01", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:04", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:04", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 105.00227258305341, "date": "2024-05-23 05:17:05", "alert": true, "receivedDate": "2024-05-23 05:17:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 78.71627740790699, "date": "2024-05-23 05:17:05", "alert": false, "receivedDate": "2024-05-23 05:17:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 124.83461664022646, "date": "2024-05-23 05:17:05", "alert": true, "receivedDate": "2024-05-23 05:17:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 76.39217442806375, "date": "2024-05-23 05:17:05", "alert": false, "receivedDate": "2024-05-23 05:17:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.41511610616664, "date": "2024-05-23 05:17:05", "alert": false, "receivedDate": "2024-05-23 05:17:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -71.4481587293491, "date": "2024-05-23 05:17:05", "alert": true, "receivedDate": "2024-05-23 05:17:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 82.20494132018445, "date": "2024-05-23 05:17:05", "alert": false, "receivedDate": "2024-05-23 05:17:05", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 180.572876147972, "date": "2024-05-23 05:17:06", "alert": true, "receivedDate": "2024-05-23 05:17:06", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 71.57191348230363, "date": "2024-05-23 05:17:06", "alert": false, "receivedDate": "2024-05-23 05:17:06", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 41.76292726807436, "date": "2024-05-23 05:17:06", "alert": true, "receivedDate": "2024-05-23 05:17:06", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:07", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:10", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 87.42567133814255, "date": "2024-05-23 05:17:10", "alert": false, "receivedDate": "2024-05-23 05:17:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 157.9487793596362, "date": "2024-05-23 05:17:10", "alert": true, "receivedDate": "2024-05-23 05:17:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 79.89164305611378, "date": "2024-05-23 05:17:10", "alert": false, "receivedDate": "2024-05-23 05:17:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 147.08313658634654, "date": "2024-05-23 05:17:10", "alert": true, "receivedDate": "2024-05-23 05:17:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.95869847273525, "date": "2024-05-23 05:17:10", "alert": false, "receivedDate": "2024-05-23 05:17:10", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:10", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:10", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.30261892918331, "date": "2024-05-23 05:17:10", "alert": false, "receivedDate": "2024-05-23 05:17:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 156.3798006745807, "date": "2024-05-23 05:17:10", "alert": true, "receivedDate": "2024-05-23 05:17:10", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.08759778360711, "date": "2024-05-23 05:17:11", "alert": false, "receivedDate": "2024-05-23 05:17:11", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 178.92803238464262, "date": "2024-05-23 05:17:11", "alert": true, "receivedDate": "2024-05-23 05:17:11", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 61.0321083517305, "date": "2024-05-23 05:17:11", "alert": true, "receivedDate": "2024-05-23 05:17:11", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:13", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:13", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 79.68904714553635, "date": "2024-05-23 05:17:15", "alert": false, "receivedDate": "2024-05-23 05:17:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.73323200762113, "date": "2024-05-23 05:17:15", "alert": false, "receivedDate": "2024-05-23 05:17:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.99351236179308, "date": "2024-05-23 05:17:15", "alert": false, "receivedDate": "2024-05-23 05:17:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -27.044845488025075, "date": "2024-05-23 05:17:15", "alert": true, "receivedDate": "2024-05-23 05:17:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 141.25483193812605, "date": "2024-05-23 05:17:15", "alert": true, "receivedDate": "2024-05-23 05:17:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 36.38515519504073, "date": "2024-05-23 05:17:15", "alert": true, "receivedDate": "2024-05-23 05:17:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 87.648468180181, "date": "2024-05-23 05:17:15", "alert": false, "receivedDate": "2024-05-23 05:17:15", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 92.40645952814347, "date": "2024-05-23 05:17:16", "alert": false, "receivedDate": "2024-05-23 05:17:16", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 25.28476269742381, "date": "2024-05-23 05:17:16", "alert": true, "receivedDate": "2024-05-23 05:17:16", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -78.97234982218558, "date": "2024-05-23 05:17:16", "alert": true, "receivedDate": "2024-05-23 05:17:16", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:16", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:19", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:19", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 97.37454397072904, "date": "2024-05-23 05:17:20", "alert": false, "receivedDate": "2024-05-23 05:17:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 147.7789423250447, "date": "2024-05-23 05:17:20", "alert": true, "receivedDate": "2024-05-23 05:17:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 72.92258024343342, "date": "2024-05-23 05:17:20", "alert": false, "receivedDate": "2024-05-23 05:17:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 85.19446070747165, "date": "2024-05-23 05:17:20", "alert": false, "receivedDate": "2024-05-23 05:17:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 21.134124427263078, "date": "2024-05-23 05:17:20", "alert": true, "receivedDate": "2024-05-23 05:17:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 167.1504977947813, "date": "2024-05-23 05:17:20", "alert": true, "receivedDate": "2024-05-23 05:17:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 61.525685413086315, "date": "2024-05-23 05:17:20", "alert": true, "receivedDate": "2024-05-23 05:17:20", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -56.05428931990194, "date": "2024-05-23 05:17:21", "alert": true, "receivedDate": "2024-05-23 05:17:21", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 167.16320330197243, "date": "2024-05-23 05:17:21", "alert": true, "receivedDate": "2024-05-23 05:17:21", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 98.91200873381284, "date": "2024-05-23 05:17:21", "alert": false, "receivedDate": "2024-05-23 05:17:21", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:22", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:25", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:25", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -23.93402953427288, "date": "2024-05-23 05:17:25", "alert": true, "receivedDate": "2024-05-23 05:17:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -26.37341935221601, "date": "2024-05-23 05:17:25", "alert": true, "receivedDate": "2024-05-23 05:17:25", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:25", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 169.44737616652458, "date": "2024-05-23 05:17:25", "alert": true, "receivedDate": "2024-05-23 05:17:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.83668137735927, "date": "2024-05-23 05:17:25", "alert": false, "receivedDate": "2024-05-23 05:17:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 70.38743927335449, "date": "2024-05-23 05:17:25", "alert": false, "receivedDate": "2024-05-23 05:17:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 73.08305446939359, "date": "2024-05-23 05:17:25", "alert": false, "receivedDate": "2024-05-23 05:17:25", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:25", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -67.51785857163473, "date": "2024-05-23 05:17:25", "alert": true, "receivedDate": "2024-05-23 05:17:25", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 90.18245226086306, "date": "2024-05-23 05:17:26", "alert": false, "receivedDate": "2024-05-23 05:17:26", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -64.17297985927914, "date": "2024-05-23 05:17:26", "alert": true, "receivedDate": "2024-05-23 05:17:26", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -40.64896405175885, "date": "2024-05-23 05:17:26", "alert": true, "receivedDate": "2024-05-23 05:17:26", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:28", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:28", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:28", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:28", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 198.73393516169432, "date": "2024-05-23 05:17:30", "alert": true, "receivedDate": "2024-05-23 05:17:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 96.31063017913107, "date": "2024-05-23 05:17:30", "alert": false, "receivedDate": "2024-05-23 05:17:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 130.09410150654855, "date": "2024-05-23 05:17:30", "alert": true, "receivedDate": "2024-05-23 05:17:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 49.26569963359147, "date": "2024-05-23 05:17:30", "alert": true, "receivedDate": "2024-05-23 05:17:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.80903114575226, "date": "2024-05-23 05:17:30", "alert": false, "receivedDate": "2024-05-23 05:17:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 143.03015298058307, "date": "2024-05-23 05:17:30", "alert": true, "receivedDate": "2024-05-23 05:17:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.81221224352211, "date": "2024-05-23 05:17:30", "alert": false, "receivedDate": "2024-05-23 05:17:30", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -31.98779504676098, "date": "2024-05-23 05:17:31", "alert": true, "receivedDate": "2024-05-23 05:17:31", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 24.60854973580815, "date": "2024-05-23 05:17:31", "alert": true, "receivedDate": "2024-05-23 05:17:31", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 99.86333123846066, "date": "2024-05-23 05:17:31", "alert": false, "receivedDate": "2024-05-23 05:17:31", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:31", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:34", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:34", "action": "get"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 84.6602108248254, "date": "2024-05-23 05:17:35", "alert": false, "receivedDate": "2024-05-23 05:17:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 9.590172830909838, "date": "2024-05-23 05:17:35", "alert": true, "receivedDate": "2024-05-23 05:17:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 182.57958111323615, "date": "2024-05-23 05:17:35", "alert": true, "receivedDate": "2024-05-23 05:17:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 89.12015283144251, "date": "2024-05-23 05:17:35", "alert": false, "receivedDate": "2024-05-23 05:17:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 35.263564183214235, "date": "2024-05-23 05:17:35", "alert": true, "receivedDate": "2024-05-23 05:17:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 78.98831705663741, "date": "2024-05-23 05:17:35", "alert": false, "receivedDate": "2024-05-23 05:17:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 81.88387640107496, "date": "2024-05-23 05:17:35", "alert": false, "receivedDate": "2024-05-23 05:17:35", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 94.23077758867242, "date": "2024-05-23 05:17:36", "alert": false, "receivedDate": "2024-05-23 05:17:36", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": -90.37886336878621, "date": "2024-05-23 05:17:36", "alert": true, "receivedDate": "2024-05-23 05:17:36", "action": "send"}
+{"Hostname": "INGGEN-286", "name": "sensor de humedad", "id": 10, "num": 149.37594493970053, "date": "2024-05-23 05:17:36", "alert": true, "receivedDate": "2024-05-23 05:17:36", "action": "send"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:37", "action": "get"}
+{"mode": 1, "receivedDate": "2024-05-23 05:17:37", "action": "get"}
