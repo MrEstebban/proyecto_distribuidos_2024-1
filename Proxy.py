@@ -16,8 +16,8 @@ consumer_receiver.bind("tcp://10.43.103.80:5557")
 # Enviar datos a la capa Cloud
 cloud_sender = context.socket(zmq.PUSH)
 #cloud_sender.connect("tcp://192.168.138.242:5558")
-cloud_sender.connect("tcp://10.43.103.80:5558")
-
+#cloud_sender.connect("tcp://10.43.103.80:5558")
+cloud_sender.connect("tcp://10.195.40.200:5558")
 
 # Variables para almacenar datos y cálculos
 temps_guardadas = []
@@ -96,18 +96,29 @@ print("Captando mensajes capa Proxy...")
 
 while True:
     work = consumer_receiver.recv_json()
-    print(work)
+    #print(work)
     
     # Validar datos recibidos
     if not validar_datos(work):
-        print("Datos inválidos recibidos:", work)
+        print("Datos inválidos recibidos:", work['name'])
         continue
+
+    
 
     # Procesar datos según el tipo de sensor
     if work['name'] == "sensor de temperatura":
+        if work['alert'] == True:
+            print(f"Sensor de temperatura con id {work['id']} envio una alerta")
         temps_guardadas.append(work['num'])
     elif work['name'] == "sensor de humedad":
+        if work['alert'] == True:
+            print(f"Sensor de humedad con id {work['id']} envio una alerta")
         humedades_guardadas.append(work['num'])
+    elif work['name'] == "sensor de humo":
+        if work['alert'] == True:
+            print(f"Sensor de humo con id {work['id']} activo el aspersor")
+        
+        
 
     # Calcular promedios y enviar datos a intervalos regulares
     hora_actual = time.time()
