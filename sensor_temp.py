@@ -52,7 +52,7 @@ def sensorTemp():
 
         zmq_socket.send_json(work_message)
         almacenar_datos(work_message, 'send')
-        sleep(6)
+        sleep(4)
 
 # ------ Main -------
 
