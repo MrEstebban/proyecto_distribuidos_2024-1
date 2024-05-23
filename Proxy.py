@@ -74,6 +74,7 @@ def enviar_alerta(tipo, valor):
     print(f"Alerta {tipo}: {valor}")
     cloud_sender.send_json(mensaje_alerta)
     almacenar_datos(mensaje_alerta, 'send')
+    almacenar_datos(mensaje_alerta, 'alert')
 
 def enviar_a_nube(tipo, valor):
     '''Envía datos procesados a la nube.'''

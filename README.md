@@ -37,18 +37,21 @@ El proxy principal es responsable de recibir datos de los sensores y enviarlos a
 python Proxy.py
 ```
 
-### 3. Iniciar el Proxy de Respaldo
-El proxy de respaldo monitoriza el proxy principal y toma el control en caso de fallo. Escucha en un puerto diferente y verifica regularmente la salud del proxy principal.
+### 3. Iniciar el Health check
+El health check monitoriza el proxy principal y toma el control en caso de fallo. Escucha en un puerto diferente y verifica regularmente la salud del proxy principal.
 
 ```bash
-python Proxy_backup.py
+python health_check.py
 ```
 
 ### 4. Iniciar los Sensores
 Los sensores simulan la medición de temperatura, humedad y humo. Generan datos y los envían al proxy principal (o al de respaldo en caso de fallo).
 
 ```bash
-python Sensores.py
+python sensor_aspersor.py
+python sensor_humo.py
+python sensor_humedad.py
+python sensor_temp.py
 ```
 
 
@@ -56,10 +59,9 @@ python Sensores.py
 - Asegúrate de que los archivos de configuración (configHume.json, configTemp.json, configHumo.json) están en el mismo directorio que los scripts de los sensores.
 - Los sensores se conectan inicialmente al proxy principal, pero pueden redirigirse al proxy de respaldo en caso de fallo. Esta implementación asegura que el sistema pueda manejar fallas en el proxy principal y continuar funcionando sin interrupciones significativas.
 - La capa Cloud almacena los datos en un archivo cloud_data.json para su análisis posterior.
-- El proxy principal y el de respaldo monitorean la disponibilidad utilizando mensajes de "ping".
 
 ## Estructura del Proyecto
-- Sensores.py: Script para simular los sensores de temperatura, humedad y humo.
+- python sensor_aspersor.py, python sensor_humo.py, python sensor_humedad.py & python sensor_temp.py: Scripts para simular el aspersor y los sensores de temperatura, humedad y humo respectivamente.
 - Proxy.py: Script del proxy principal.
 - Proxy_backup.py: Script del proxy de respaldo.
 - Cloud.py: Script de la capa Cloud para el almacenamiento y análisis de datos.

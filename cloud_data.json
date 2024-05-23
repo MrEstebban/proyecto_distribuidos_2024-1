@@ -1,9 +1,3 @@
-{"type": "Temperatura", "value": 195.72515153684154, "date": "2024-05-21 22:18:24"}
-{"type": "Promedio_Temperatura", "value": 195.72515153684154, "date": "2024-05-21 22:18:24"}
-{"type": "Humedad_Diaria", "value": 78.79253773447937, "date": "2024-05-21 22:18:29"}
-{"type": "Temperatura", "value": 43.95896686758424, "date": "2024-05-21 22:18:30"}
-{"type": "Promedio_Temperatura", "value": 43.95896686758424, "date": "2024-05-21 22:18:30"}
-{"type": "Humedad_Diaria", "value": 100.08544586596379, "date": "2024-05-21 22:18:42"}
 {"type": "Promedio_Temperatura", "value": 11.235827453133568, "date": "2024-05-23 02:13:46", "receivedDate": "2024-05-23 02:13:46", "action": "get"}
 {"type": "Temperatura", "value": 51.119553412629735, "date": "2024-05-23 02:13:58", "receivedDate": "2024-05-23 02:13:58", "action": "get"}
 {"type": "Promedio_Temperatura", "value": 51.119553412629735, "date": "2024-05-23 02:13:58", "receivedDate": "2024-05-23 02:13:58", "action": "get"}

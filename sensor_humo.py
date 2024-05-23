@@ -39,6 +39,8 @@ def sensorHumo():
                 alert = { 'mode' : 1}
                 work_message = { 'Hostname' : hostname, 'name' : "sensor de humo", 'id' : sh, 'num' : numero_aleatorio, 'date' : datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'alert' : True}
                 zmq_socketaspAlert.send_json(alert)
+                almacenar_datos(alert, 'alert')
+
         else:
             numero_aleatorio = random.uniform(-1, -100)
             print(threading.current_thread().name, " ", numero_aleatorio)

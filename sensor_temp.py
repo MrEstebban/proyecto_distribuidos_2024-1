@@ -43,10 +43,12 @@ def sensorTemp():
             numero_aleatorio = generar_numero(11,29.4)
             print(threading.current_thread().name, " ", numero_aleatorio)
             work_message = { 'Hostname' : hostname, 'name' : "sensor de temperatura", 'id' : st, 'num' : numero_aleatorio, 'date' : datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'alert' : True}
+            almacenar_datos(work_message, 'alert')
         else:
             numero_aleatorio = random.uniform(-1, -100)
             print(threading.current_thread().name, " ", numero_aleatorio)
             work_message = { 'Hostname' : hostname, 'name' : "sensor de temperatura", 'id' : st, 'num' : numero_aleatorio, 'date' : datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'alert' : True}
+            almacenar_datos(work_message, 'alert')
 
         zmq_socket.send_json(work_message)
         almacenar_datos(work_message, 'send')
