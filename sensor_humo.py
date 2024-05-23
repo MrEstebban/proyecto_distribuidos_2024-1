@@ -6,6 +6,18 @@ import socket
 from datetime import datetime
 import json
 
+data_file = "sensor_humo_data.json"
+
+def almacenar_datos(data, action):
+    """Almacena los datos recibidos en un archivo JSON."""
+    data['receivedDate'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    data['action'] = action
+    try:
+        with open(data_file, "a") as f:
+            f.write(json.dumps(data) + "\n")
+    except Exception as e:
+        print(f"Error al almacenar datos: {e}")
+
 def cargar_datos(ruta):
     with open(ruta, "r") as contenido:
         info = json.load(contenido)["info"]
@@ -32,6 +44,7 @@ def sensorHumo():
             print(threading.current_thread().name, " ", numero_aleatorio)
             work_message = { 'Hostname' : hostname, 'name' : "sensor de humo", 'id' : sh, 'num' : numero_aleatorio, 'date' : datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'alert' : True}
         zmq_socket.send_json(work_message)
+        almacenar_datos(work_message, 'send')
         sleep(3)
 
 # ------ Main -------

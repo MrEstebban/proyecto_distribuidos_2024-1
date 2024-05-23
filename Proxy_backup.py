@@ -25,6 +25,17 @@ humedades_guardadas = []
 humedades_diarias_guardadas = []
 hora_ultima_temp_guardada = time.time()
 hora_ultima_humedad_guardada = time.time()
+data_file = "proxy_data.json"
+
+def almacenar_datos(data, action):
+    """Almacena los datos recibidos en un archivo JSON."""
+    data['receivedDate'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    data['action'] = action
+    try:
+        with open(data_file, "a") as f:
+            f.write(json.dumps(data) + "\n")
+    except Exception as e:
+        print(f"Error al almacenar datos: {e}")
 
 def validar_datos(data):
     """Valida que los datos recibidos no contengan errores."""
@@ -62,6 +73,7 @@ def enviar_alerta(tipo, valor):
     }
     print(f"Alerta {tipo}: {valor}")
     cloud_sender.send_json(mensaje_alerta)
+    almacenar_datos(mensaje_alerta, 'send')
 
 def enviar_a_nube(tipo, valor):
     '''Envía datos procesados a la nube.'''
@@ -71,6 +83,7 @@ def enviar_a_nube(tipo, valor):
         'date': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     }
     cloud_sender.send_json(mensaje)
+    almacenar_datos(mensaje, 'send')
 
 def handle_health_check(zmq_socket_health):
     while True:
@@ -97,7 +110,8 @@ print("Captando mensajes capa Proxy Backup...")
 while True:
     work = consumer_receiver.recv_json()
     #print(work)
-    
+    almacenar_datos(work, 'get')
+
     # Validar datos recibidos
     if not validar_datos(work):
         print("Datos inválidos recibidos:", work['name'])
@@ -117,7 +131,6 @@ while True:
     elif work['name'] == "sensor de humo":
         if work['alert'] == True:
             print(f"Sensor de humo con id {work['id']} activo el aspersor")
-        
         
 
     # Calcular promedios y enviar datos a intervalos regulares
